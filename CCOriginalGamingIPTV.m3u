@@ -1037,14 +1037,18 @@ https://onedrive.astradamy.com/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.D
 #EXTINF:-1 type="movie" group-title="Apple TV+" tvg-logo="https://aqfadtv.astradamy.com/images/Finch.png",Finch
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Finch.2021.720p.ATVP.WEB-DL.mp4&raw=true&type=file.mp4
 
-#EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://www.dropbox.com/s/w4g949jjq0uyw71/H.jpg,The Meat Grinder (Cheuuat gaawn chim) (2009)
+#EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://www.dropbox.com/s/w4g949jjq0uyw71/H.jpg,Cheuuat gaawn chim
 https://www.dropbox.com/s/xkpoqi4u7k6serp/The%20Meat%20Grinder%20%28Cheuuat%20gaawn%20chim%29%20%282009%29.mp4&raw=true&type=file.mp4
 
-#EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://www.dropbox.com/s/w4g949jjq0uyw71/H.jpg,Scared (Rap nawng sayawng khwan) (2005)
+#EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://www.dropbox.com/s/w4g949jjq0uyw71/H.jpg,Rap nawng sayawng khwan
 https://www.dropbox.com/s/xkzansxkqopjnje/Scared%20%28Rap%20nawng%20sayawng%20khwan%29%20%282005%29.mp4&raw=true&type=file.mp4
 
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://www.dropbox.com/s/dojmby1edleghgn/A.jpg,Bleach the Movie- Fade to Black
+https://www.dropbox.com/s/ocjzskgkyhl1u8o/Bleach%20the%20Movie-%20Fade%20to%20Black.ts
+
+#EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://www.dropbox.com/s/dojmby1edleghgn/A.jpg,Bleach the Movie- Fade to Black
 https://www.dropbox.com/s/ocjzskgkyhl1u8o/Bleach%20the%20Movie-%20Fade%20to%20Black.ts&raw=true&type=file.mp4
+
 
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Last-Man-Down.png",Last Man Down
 https://onedrive-aqfad.vercel.app/api?path=/VOD/Last.Man.Down.2021.720p.BRRip-OMG.mp4&raw=true&type=file.mp4
