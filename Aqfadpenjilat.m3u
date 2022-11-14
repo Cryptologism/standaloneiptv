@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="1" tvg-logo="https://aqfadtv.astradamy.com/images/Untitled.png",DO NOT SELL THIS PLAYLIST!
-https://onedrive.aqfadtv.xyz/api/raw/?path=/Info.mp4&raw=true
+#EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto a.k.a CCOriginalGaming!
+http://aiogaming.coolpage.biz
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
