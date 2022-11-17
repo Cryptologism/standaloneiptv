@@ -1037,6 +1037,9 @@ https://onedrive.astradamy.com/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.D
 #EXTINF:-1 type="movie" group-title="Apple TV+" tvg-logo="https://aqfadtv.astradamy.com/images/Finch.png",Finch
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Finch.2021.720p.ATVP.WEB-DL.mp4&raw=true&type=file.mp4
 
+#EXTINF:-1 type="movie" group-title="Anime(P)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4YWEzMzMtZGQ0Ny00Y2Q4LTgyZTYtOWVmZjUyZDhjMWYzXkEyXkFqcGdeQXVyMTM0MDY3ODQ3._V1_.jpg",One Piece Film- Red
+https://www.dropbox.com/s/8e9mwrso5jvywnv/One%20Piece%20Film-%20Red.mp4?dl=0&raw=true&type=file.mp4
+
 #EXTINF:-1 type="movie" group-title="Anime(P)" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 1
 https://www.dropbox.com/s/xviivd6nvrmk4u2/Bleach-%20Thousand-Year%20Blood%20War%20Episode%201%20Online.mp4?dl=0&raw=true&type=file.mp4
 
