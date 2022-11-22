@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/Cryptologism/epg/main/epg.xml refresh="1440" max-conn="1" refresh="24"
-#EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / DO NOT COPY OR RESELL !!
-https://www.dropbox.com/s/jw8nb63xhisgnaw/Im%20A%20Creep.mp4?dl=0&raw=true
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:5
 #EXT-X-MEDIA-SEQUENCE:1066187
