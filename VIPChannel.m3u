@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/Cryptologism/epg/main/epg.xml refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="CHN" group-title="[CreatorInfo]" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / VIP VERSION !!
+#EXTINF:-1 tvg-id="CHN" group-title="CreatorInfo" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / VIP VERSION !!
 https://www.dropbox.com/s/sbdkp5cq3y65sf1/Intro%26Info%20Vod.mp4?dl=0&raw=true
 
 
