@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=https://raw.githubusercontent.com/Cryptologism/epg/main/epg.xml refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="CHN" group-title="Info" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / VIP VERSION !!
+#EXTINF:-1 tvg-id="CHN" group-title="[CreatorInfo]" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / VIP VERSION !!
 https://www.dropbox.com/s/sbdkp5cq3y65sf1/Intro%26Info%20Vod.mp4?dl=0&raw=true
 
 
@@ -34,6 +34,14 @@ https://www.dropbox.com/s/w8g3008kxnox2sj/Bleach-%20Thousand-Year%20Blood%20War%
 
 #######################################################################################################################################################################
 
+#EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://geo-media.beatsource.com/image_size/1400x1400/8/3/1/831098b4-77d2-45e6-bfc8-05aba4483090.jpg",Battle-Freestyle
+https://www.dropbox.com/s/awap1811311izzz/BattleFreestyle.mp4?dl=0&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://pic1.iqiyipic.com/image/20221115/d1/a7/v_170040433_m_601_en_1080_608.jpg",Fox Tomb Shadow
+https://www.dropbox.com/s/fcef2pxjdi4qkdq/Fox_Tomb_Shadow.mp4?dl=0&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://assets-prd.ignimgs.com/2022/10/03/wakanda-forever-poster-button-1664815714839.jpg",Black Panther Wakanda Forever CAM
+https://www.dropbox.com/s/sv775mb75injj69/Black%20Panther%20Wakanda%20Forever%20%282022%29CAM.mp4?dl=0&raw=true&type=file.mp4
 
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/10/film-blackout-2022-lk21-d21.jpg",Blackout
 https://www.dropbox.com/s/vulhaw4ohcso3b7/Blackout%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
@@ -102,6 +110,9 @@ https://www.dropbox.com/s/ry0m7tui31inufo/Top%20Gun-%20Maverick%20%282022%29.mp4
 
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Seoul_Ghost_Story.jpg",Urban Myth
 https://www.dropbox.com/s/2y6npdp807365j3/Urban%20Myths.mp4?dl=0&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://i.mydramalist.com/WpYOl_4f.jpg",Minxiong Haunted House
+https://www.dropbox.com/s/pf0l0d74wx8c8eq/Minxiong%20Haunted%20House.mp4?dl=0&raw=true&type=file.mp4
 
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://i.ibb.co/yQ9yC2q/1.jpg",Cheuuat gaawn chim
 https://www.dropbox.com/s/xkpoqi4u7k6serp/The%20Meat%20Grinder%20%28Cheuuat%20gaawn%20chim%29%20%282009%29.mp4?dl=0&raw=true&type=file.mp4
