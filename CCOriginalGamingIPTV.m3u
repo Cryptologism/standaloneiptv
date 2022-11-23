@@ -1037,6 +1037,8 @@ https://onedrive.astradamy.com/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.D
 #EXTINF:-1 type="movie" group-title="Apple TV+" tvg-logo="https://aqfadtv.astradamy.com/images/Finch.png",Finch
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Finch.2021.720p.ATVP.WEB-DL.mp4&raw=true&type=file.mp4
 
+#######################################################################################################################################################################
+
 #EXTINF:-1 type="movie" group-title="Anime(P)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4YWEzMzMtZGQ0Ny00Y2Q4LTgyZTYtOWVmZjUyZDhjMWYzXkEyXkFqcGdeQXVyMTM0MDY3ODQ3._V1_.jpg",One Piece Film- Red
 https://www.dropbox.com/s/8e9mwrso5jvywnv/One%20Piece%20Film-%20Red.mp4?dl=0&raw=true&type=file.mp4
 
@@ -1058,6 +1060,10 @@ https://www.dropbox.com/s/u5z0655vgdm2570/Bleach-%20Thousand-Year%20Blood%20War%
 #EXTINF:-1 type="movie" group-title="Anime(P)" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 6
 https://www.dropbox.com/s/zpncxycqac4pp13/Bleach-%20Thousand-Year%20Blood%20War%20Episode%206%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
 
+#EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 7
+https://www.dropbox.com/s/w8g3008kxnox2sj/Bleach-%20Thousand-Year%20Blood%20War%20Episode%207%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
+
+#######################################################################################################################################################################
 
 #EXTINF:-1 type="movie" group-title="Action(P)" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/10/film-blackout-2022-lk21-d21.jpg",Blackout
 https://www.dropbox.com/s/vulhaw4ohcso3b7/Blackout%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
@@ -1113,12 +1119,13 @@ https://www.dropbox.com/s/8xu92fbirycy9bk/Spiderhead%20%282022%29.mp4?dl=0&raw=t
 #EXTINF:-1 type="movie" group-title="Action(P)" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-the-assistant-2022-lk21-d21.jpg",The Assistant
 https://www.dropbox.com/s/4b35894ffxbosim/The%20Assistant%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
 
-
 #EXTINF:-1 type="movie" group-title="Action(P)" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/07/film-the-gray-man-2022-lk21-d21.jpg",The Gray Man
 https://www.dropbox.com/s/dzfklivewwhz15e/The%20Gray%20Man.mp4?dl=0&raw=true&type=file.mp4
 
 #EXTINF:-1 type="movie" group-title="Action(P)" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-top-gun-maverick-2022-lk21-d21.jpg",Top Gun- Maverick
 https://www.dropbox.com/s/ry0m7tui31inufo/Top%20Gun-%20Maverick%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
+
+#######################################################################################################################################################################
 
 #EXTINF:-1 type="movie" group-title="Horror(P)" tvg-logo="https://i.ibb.co/yQ9yC2q/1.jpg",Cheuuat gaawn chim
 https://www.dropbox.com/s/xkpoqi4u7k6serp/The%20Meat%20Grinder%20%28Cheuuat%20gaawn%20chim%29%20%282009%29.mp4?dl=0&raw=true&type=file.mp4
@@ -1167,6 +1174,8 @@ https://www.dropbox.com/s/u6koxqchoj6spum/The%20Witch-%20Part%201%20%E2%80%93%20
 
 #EXTINF:-1 type="movie" group-title="Horror(P)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNiZDc3NWUtNmQ5ZS00MTI0LWFjNGQtZGUwZDlmZmU0N2QyXkEyXkFqcGdeQXVyNTIxNTMxMjE@._V1_.jpg",The Witch- Part 2. The Other One
 https://www.dropbox.com/s/kc9vfvqn96fxrwz/The%20Witch-%20Part%202.%20The%20Other%20One.mp4?dl=0&raw=true&type=file.mp4
+
+#######################################################################################################################################################################
 
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Last-Man-Down.png",Last Man Down
 https://onedrive-aqfad.vercel.app/api?path=/VOD/Last.Man.Down.2021.720p.BRRip-OMG.mp4&raw=true&type=file.mp4
