@@ -279,6 +279,44 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
 #######################################################################################################################################################################
 
+#EXTGRP: 🔍 | Knowledge
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NationalGeographic" group-title="Documentaries" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
+http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
+
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NatGeoWild" group-title="Documentaries" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",550 National Geographic Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
+
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DiscoveryChannel" group-title="Documentaries" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",552 Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DiscoveryAsia" group-title="Documentaries" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png" ch-number="553",553 Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="AnimalPlanet" group-title="Documentaries" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",556 Animal Planet HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",554 BBC Earth HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="History" group-title="Documentaries" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" ch-number="555",555 History HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#######################################################################################################################################################################
+
 #EXTGRP: 📻 | Radio
 #EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/3G-FM-Radio-100x47.jpg" tvg-id="CHN" group-title="📻 | Radio",3G FM Radio
 http://167.114.131.90:5232/
