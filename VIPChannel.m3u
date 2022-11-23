@@ -6,103 +6,83 @@ https://www.dropbox.com/s/sbdkp5cq3y65sf1/Intro%26Info%20Vod.mp4?dl=0&raw=true
 
 #######################################################################################################################################################################
 
+#EXTGRP: ▶ | YouTube-exclusive channels
+#EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",COVID-19 Status - Real Time Dashboard; World Maps; Charts; News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669246508/ei/zFl-Y4ukLdeKg8UP28uWqAI/ip/175.144.164.187/id/O4b-cNfoYfA.1/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWs56J3IO-sToAOyfa4QsZX1c9elSt9Q7-USPGEJy7cECIGpYE40HGWIXyMdhHuLnUIuvCEixOo3dyxwl0y_jpjjr/file/index.m3u8
+#EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",Lofi Girl 1 Channel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669245079/ei/NlR-Y6_fOPyRg8UP9NOj0AM/ip/175.144.164.187/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIpvayqg87uB3KOLcmjUMRJheiOhUY0KvlGElU-l-GBMAiEAsDcfMPyqlZNYaFaoSiqNNd0pEVqM923efCmJMW5OOgA%3D/file/index.m3u8
+#EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",Lofi Girl 2  Channel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669245486/ei/zlV-Y6DZGry5juMP7p212A0/ip/175.144.164.187/id/rUxyKA_-grg.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgN27lWIT0_vo14uA4o7JUVcU2rqX_YqFt_FnnfNX2HUACIDpul8m-fQLsCFcUmwCAtD_mTqOm9f4fgrRIarY6udDY/file/index.m3u8
+#EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",NCS Music Channel
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669245612/ei/S1Z-Y4-sOOSDz7sPhbabwA8/ip/175.144.164.187/id/7tNtU5XFwrU.3/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALIfCArH29tP7oTT74O_GO-XTysROBq3Jj7ydezRk0NNAiAzL9q2CD3kk2L9h87H4TRkbXGt698GynvQN-Oo-66mfA%3D%3D/file/index.m3u8
+
+#######################################################################################################################################################################
 
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4YWEzMzMtZGQ0Ny00Y2Q4LTgyZTYtOWVmZjUyZDhjMWYzXkEyXkFqcGdeQXVyMTM0MDY3ODQ3._V1_.jpg",One Piece Film- Red
 https://www.dropbox.com/s/8e9mwrso5jvywnv/One%20Piece%20Film-%20Red.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 1
 https://www.dropbox.com/s/xviivd6nvrmk4u2/Bleach-%20Thousand-Year%20Blood%20War%20Episode%201%20Online.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 2
 https://www.dropbox.com/s/spb7atnugpg3lcm/Bleach-%20Thousand-Year%20Blood%20War%20Episode%202%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 3
 https://www.dropbox.com/s/mttkovx0fqdapl7/Bleach-%20Thousand-Year%20Blood%20War%20Episode%203%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 4
 https://www.dropbox.com/s/szl0s455eb04hyq/Bleach-%20Thousand-Year%20Blood%20War%20Episode%204%20Online.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 5
 https://www.dropbox.com/s/u5z0655vgdm2570/Bleach-%20Thousand-Year%20Blood%20War%20Episode%205%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 6
 https://www.dropbox.com/s/zpncxycqac4pp13/Bleach-%20Thousand-Year%20Blood%20War%20Episode%206%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Anime" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 7
 https://www.dropbox.com/s/w8g3008kxnox2sj/Bleach-%20Thousand-Year%20Blood%20War%20Episode%207%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
-
 
 #######################################################################################################################################################################
 
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://geo-media.beatsource.com/image_size/1400x1400/8/3/1/831098b4-77d2-45e6-bfc8-05aba4483090.jpg",Battle-Freestyle
 https://www.dropbox.com/s/awap1811311izzz/BattleFreestyle.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://pic1.iqiyipic.com/image/20221115/d1/a7/v_170040433_m_601_en_1080_608.jpg",Fox Tomb Shadow
 https://www.dropbox.com/s/fcef2pxjdi4qkdq/Fox_Tomb_Shadow.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://assets-prd.ignimgs.com/2022/10/03/wakanda-forever-poster-button-1664815714839.jpg",Black Panther Wakanda Forever CAM
 https://www.dropbox.com/s/sv775mb75injj69/Black%20Panther%20Wakanda%20Forever%20%282022%29CAM.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s5.indexmovies.xyz/wp-content/uploads/2022/10/film-blackout-2022-lk21-d21.jpg",Blackout
 https://www.dropbox.com/s/vulhaw4ohcso3b7/Blackout%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Bullet_Train_%28poster%29.jpeg/220px-Bullet_Train_%28poster%29.jpeg",Bullet Train
 https://www.dropbox.com/s/jygwvbkeoki7ovp/Bullet%20Train.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTAzODdiODEtNTJjYy00MDljLWJjNDYtNDRmZDJiYTRiNGRlXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_.jpg",Air Force The Movie: Selagi Bernyawa
 https://www.dropbox.com/s/sn7ljiaif9r34y0/Air%20Force%20the%20Movie-%20Selagi%20Bernyawa.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE1MmZiMWYtYTFmZi00YjA3LWI2ODgtMWFlNWYxZjdmNGE3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg",All Quiet on the Western Front
 https://www.dropbox.com/s/yw4s4p6q41sviol/All%20Quiet%20on%20the%20Western%20Front.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",Black Adam
 https://www.dropbox.com/s/kwpz2xcs6mbga2t/Black%20Adam.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://www.10star.com.my//Upload/Movie/com3_20220829032427PM.jpg",Confidential Assignment 2- International
 https://www.dropbox.com/s/d44436ifnp5yta4/Confidential%20Assignment%202-%20International.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",Jurassic World Dominion
 https://www.dropbox.com/s/r96a27vkeu0injy/Jurassic%20World%20Dominion.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/verticalentertainment/last-seen-alive/images/regions/us/onesheet.jpg",Last Seen Alive
 https://www.dropbox.com/s/z8a507j80odpsbi/Last%20Seen%20Alive%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEzN2IxOTktMzBjMS00ZWU1LWI0OTgtZjViNWYxOWY1MjUxXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Satria Dewa Gatotkaca
 https://www.dropbox.com/s/imlth3kpok4rw0o/Satria%20Dewa%20Gatotkaca.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2Mzc2MzMtZjgwZC00MjI2LTg3YTktZDAzZTAyZmFkYTE0XkEyXkFqcGdeQXVyMjM2OTA1OTY@._V1_.jpg",The Infernal Machine
 https://www.dropbox.com/s/ngug2rblcto4ui9/The%20Infernal%20Machine.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/The_Wonder_%28film%29.jpg/220px-The_Wonder_%28film%29.jpg",The Wonder
 https://www.dropbox.com/s/eftvfw9gfb59u6j/The%20Wonder.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2022/08/film-bullet-proof-2022-lk21-d21.jpg",Bullet Proof
 https://www.dropbox.com/s/hyov9d6hqwzqpda/Bullet%20Proof%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/10/film-detective-knight-rogue-2022-lk21-d21.jpg",Detective Knight- Rogue
 https://www.dropbox.com/s/145g4n9lb2i77x8/Detective%20Knight-%20Rogue%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/09/film-mat-kilau-2022-lk21-d21.jpg",Mat Kilau
 https://www.dropbox.com/s/eclg3g80c5k079o/Mat%20Kilau%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/10/Opera-Snapshot_2022-10-16_195755_ww26.pencurimovie.quest_-2.png",Misi
 https://www.dropbox.com/s/icjpi7zgw68wsz0/Misi%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s7.indexmovies.xyz/wp-content/uploads/2022/08/film-my-true-friends-the-begining-2022-lk21-d21.jpg",My True Friends The Begining
 https://www.dropbox.com/s/ov16cv2m4uyv5i1/My%20True%20Friends%20The%20Begining%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s4.indexmovies.xyz/wp-content/uploads/2022/08/film-sniper-rogue-mission-2022-lk21-d21.jpg",Sniper- Rogue Mission
 https://www.dropbox.com/s/cabgtaovoewlj00/Sniper-%20Rogue%20Mission%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/06/film-spiderhead-2022-lk21-d21.jpg",Spiderhead
 https://www.dropbox.com/s/8xu92fbirycy9bk/Spiderhead%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/08/film-the-assistant-2022-lk21-d21.jpg",The Assistant
 https://www.dropbox.com/s/4b35894ffxbosim/The%20Assistant%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/07/film-the-gray-man-2022-lk21-d21.jpg",The Gray Man
 https://www.dropbox.com/s/dzfklivewwhz15e/The%20Gray%20Man.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Action" tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/05/film-top-gun-maverick-2022-lk21-d21.jpg",Top Gun- Maverick
 https://www.dropbox.com/s/ry0m7tui31inufo/Top%20Gun-%20Maverick%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
 
@@ -110,263 +90,281 @@ https://www.dropbox.com/s/ry0m7tui31inufo/Top%20Gun-%20Maverick%20%282022%29.mp4
 
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7c/Seoul_Ghost_Story.jpg",Urban Myth
 https://www.dropbox.com/s/2y6npdp807365j3/Urban%20Myths.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://i.mydramalist.com/WpYOl_4f.jpg",Minxiong Haunted House
 https://www.dropbox.com/s/pf0l0d74wx8c8eq/Minxiong%20Haunted%20House.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://i.ibb.co/yQ9yC2q/1.jpg",Cheuuat gaawn chim
 https://www.dropbox.com/s/xkpoqi4u7k6serp/The%20Meat%20Grinder%20%28Cheuuat%20gaawn%20chim%29%20%282009%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://i.ibb.co/HLSM7q5/22.jpg",Rap nawng sayawng khwan
 https://www.dropbox.com/s/xkzansxkqopjnje/Scared%20%28Rap%20nawng%20sayawng%20khwan%29%20%282005%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2I3MjZiMGItMjNjMS00OGQwLThjMjctYmYyM2E1MDg2MmJiXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",Cracked
 https://www.dropbox.com/s/cjirozh88d6vbfu/Cracked%20%282022%29.mp4?dl=0?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlmYzkyMGItMjA5Mi00Y2RmLWFmNTUtZjZlZjYzOWRmMDFiXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_FMjpg_UX1000_.jpg",Daeng Phra Khanong
 https://www.dropbox.com/s/4nkt01qgkt3r9vt/Daeng%20Phra%20Khanong%20%282022%29.mp4?dl=0?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMGFmMzItMjdhZi00OWQ2LThiYTgtZjgxZTY5NDkyZjIzXkEyXkFqcGdeQXVyNzQ2OTEzMzY@._V1_.jpg",Grimcutty
 https://www.dropbox.com/s/ev2iiut3h3ol19l/Grimcutty%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ3N2NlNWYtNTg4My00OTg4LWJiNjUtNmYyNGQyZWE2OTE2XkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg",Kan Cheong
 https://www.dropbox.com/s/yh2nyn4okunpwab/Kan%20Cheong%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://image.tmdb.org/t/p/w185/bQnx6jgLL4AOz46BOnfMjEc6J1S.jpg",Mushrik
 https://www.dropbox.com/s/aosf4za9zs3pr1u/Musyrik%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2M0NDEwY2EtYjNlZi00Yjc4LTllMzktNmJmYzllY2Q0NjE3XkEyXkFqcGdeQXVyMTQ4MDIwNjYx._V1_FMjpg_UX1000_.jpg",Rumah
 https://www.dropbox.com/s/54pxut5otpjgrjh/Rumah%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjUyM2E3YmMtZGI5NS00NGI2LTgxOTUtNDZlMDczYzVjOGNkXkEyXkFqcGdeQXVyMzcyMDg3ODE@._V1_.jpg",SLR
 https://www.dropbox.com/s/bhf16o7y4lqur5f/SLR%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Smile_%282022_film%29.jpg/220px-Smile_%282022_film%29.jpg",S.M.I.L.E
 https://www.dropbox.com/s/z97xn4c5dftpoz7/Smile%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/The_Medium_film_poster.jpg",The-Medium
 https://www.dropbox.com/s/jy9exlqfdcm2qd0/The%20Medium%20%282021%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI3NmU1ZDUtNjZhNy00MWE2LWI3ZTctZTA1YjEyYzUwZWFmXkEyXkFqcGdeQXVyNzg4NDEyNDk@._V1_.jpg",Pee Nak 1
 https://www.dropbox.com/s/bsz23im4xdm84wy/Pee%20Nak%20%282019%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjBmMmRiZjgtNDNlMi00OWVmLWI0YzYtYjQ5ODc4YTUxMzhkXkEyXkFqcGdeQXVyODgwNDE1NzE@._V1_.jpg",Pee Nak 2
 https://www.dropbox.com/s/6jjhn8a7w25fd2n/Pee%20Nak%202%20%282020%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://i.mydramalist.com/2VKZR_4f.jpg",Pee Nak 3
 https://www.dropbox.com/s/yruce6txbuupz07/Pee%20Nak%203%20%282022%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFiMTVlYTAtOGZhMi00ZjkzLWI2ZjItNDc4ZjUwYmQ1YmRjXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",The Witch- Part 1 – The Subversion (Manyeo)
 https://www.dropbox.com/s/u6koxqchoj6spum/The%20Witch-%20Part%201%20%E2%80%93%20The%20Subversion%20%28Manyeo%29.mp4?dl=0&raw=true&type=file.mp4
-
 #EXTINF:-1 type="movie" group-title="Horror" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWNiZDc3NWUtNmQ5ZS00MTI0LWFjNGQtZGUwZDlmZmU0N2QyXkEyXkFqcGdeQXVyNTIxNTMxMjE@._V1_.jpg",The Witch- Part 2. The Other One
 https://www.dropbox.com/s/kc9vfvqn96fxrwz/The%20Witch-%20Part%202.%20The%20Other%20One.mp4?dl=0&raw=true&type=file.mp4
 
 #######################################################################################################################################################################
 
+#EXTGRP: 📺 | Box-Office & HBO (divided by country code)
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 3
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 4
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 6
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX A
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924706
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX B
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924707
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX C
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924708
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX D
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924709
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX E
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924710
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX F
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
 
 #######################################################################################################################################################################
 
+#EXTGRP: 📺 | Netflix (divided by country code)
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 NETFLIX 1" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924735
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 NETFLIX 2" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924736
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 NETFLIX 3" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 3
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924737
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 NETFLIX 4" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 4
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924738
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 NETFLIX 5" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924739
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 NETFLIX 6" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 6
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924740
 
 #######################################################################################################################################################################
 
+#EXTGRP: 📺 | Live Movies (divided by country code)
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 1" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924741
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 2" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924742
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 3" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 3
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924743
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 4" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 4
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924744
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 5" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924745
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 6" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 6
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924746
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 7" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 7
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924747
-
 #EXTINF:-1 tvg-id="CHN" tvg-name="US| 24/7 SHOWTIME 8" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 8
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924748
 
 #######################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 2 (C)
+#EXTGRP: 📺 | China Live Movies
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 2 (C)
 http://epg.112114.xyz/douyu/122402
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 3 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 3 (C.)
 http://epg.112114.xyz/douyu/6763930
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 4 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 4 (P)
 http://epg.112114.xyz/douyu/2436390
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 5 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 5 (P)
 http://epg.112114.xyz/douyu/4332
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 6 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 6 (P)
 http://epg.112114.xyz/douyu/413573
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 7 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 7 (P)
 http://epg.112114.xyz/douyu/747764
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 8 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 8 (P)
 http://epg.112114.xyz/douyu/252802
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 9 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 9 (P)
 http://epg.112114.xyz/douyu/36337
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 10 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 10 (P)
 http://epg.112114.xyz/douyu/8814650
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 11 (P.M)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 11 (P.M)
 http://epg.112114.xyz/douyu/9651304
-
-#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 12 (P.M)
+#EXTINF:-1 tvg-id="CHN" tvg-name="DOUYU" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 12 (P.M)
 http://epg.112114.xyz/douyu/2793084
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 13 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 13 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 14 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 14 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 15 (C)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 15 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 17 (C)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 17 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 18 (C.S)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 18 (C.S)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 19 (C)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 19 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 20 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 20 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 21 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 21 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 22 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 22 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 23 (C.F)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 23 (C.F)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 24 (C.H)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 24 (C.H)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 25 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 25 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 26 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 26 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635
-
-#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 27 (C.J)
+#EXTINF:-1 tvg-id="CHN" tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 27 (C.J)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 28 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 28 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 29 (C.)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 29 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 30 (C.H)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 30 (C.H)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 31 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 31 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 32 (P.I.M)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 32 (P.I.M)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 33 (P.)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 33 (P.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 34 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 34 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 35 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 35 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 36 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 36 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 37 (P.J.B)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 37 (P.J.B)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
-
-#EXTINF:-1 tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 38 (P)
+#EXTINF:-1 tvg-id= tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 38 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 39 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 39 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Random Chinese Movies",MOVIES MIX 40 (P)
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 40 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
-
 
 #######################################################################################################################################################################
 
+#EXTGRP: 📻 | Radio
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/3G-FM-Radio-100x47.jpg" tvg-id="CHN" group-title="📻 | Radio",3G FM Radio
+http://167.114.131.90:5232/
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711300/ab5f84bbc8de6ec5c957f33db0a1ff2f/938now-logoImage.png" tvg-id="CHN" group-title="📻 | Radio",938 Now Radio
+http://22403.live.streamtheworld.com:80/938NOWAAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",AI FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",AXR Singapore
+https://22283.live.streamtheworld.com:443/AXR_SINGAPOREAAC.aac
+#EXTINF:-1 tvg-logo="https://www.bfm.my/themes/bfmmy/assets/images/bfm-logo.jpg" tvg-id="CHN" group-title="📻 | Radio",BFM 89.9
+http://22283.live.streamtheworld.com/BFMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711292/c1d17b4ea5804a7465b72e2662852a6d/capital-958-logoImage.png" tvg-id="CHN" group-title="📻 | Radio",Capital 958 Radio
+http://22403.live.streamtheworld.com:80/CAPITAL958FMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" tvg-id="CHN" group-title="📻 | Radio",Class 95 Radio
+http://22403.live.streamtheworld.com:80/CLASS95AAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png" tvg-id="CHN" group-title="📻 | Radio",CNA 938 Live Singapore
+http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",CNA938
+http://22893.live.streamtheworld.com:80/938NOW_PREM/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/era/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio",Era FM
+http://astro2.rastream.com/era
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio",Gold 905 Radio
+http://19183.live.streamtheworld.com:80/GOLD905AAC.aac
+#EXTINF:-1 tvg-logo="http://media2.fishtank.my/app_themes/hitz/ico/hitz.ico" tvg-id="CHN" group-title="📻 | Radio",Hits FM Sarawak
+http://astro1.rastream.com/hitz
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/hitz/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio",Hitz FM
+http://astro2.rastream.com/hitz
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/88298.v1.png" tvg-id="CHN" group-title="📻 | Radio",Hitz.FM Singapore
+http://91.121.121.25:8260/stream
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/11/Hot-FM-91.3.jpg" tvg-id="CHN" group-title="📻 | Radio",Hot FM 91.3
+https://22283.live.streamtheworld.com/ONE_FM_913_SC
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",Jazz Lounge
+http://eu8.fastcast4u.com:5068/;
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",Jei FM Klang Tamil Radio
+https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",Jia 883 Radio
+http://23683.live.streamtheworld.com:80/883JIAAAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",KISS92
+https://22253.live.streamtheworld.com/KISS_92AAC.aac
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/litefm/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio",Lite
+http://astro1.rastream.com/lite?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Alite&playerid=Lite_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTY0NzEsImV4cCI6MTUzNzgwMjg3MX0.pSjOU07bdGLYSH3JlfgMBR7qdU7QcAlsTPPwQB3_c3s
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio",Love 972 Radio
+http://22403.live.streamtheworld.com:80/LOVE972FMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" tvg-id="CHN" group-title="📻 | Radio",Mediacorp 987 Radio
+http://14033.live.streamtheworld.com:80/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/my/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio",MyFM
+http://astro1.rastream.com/myfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amyfm&playerid=MY%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTA2ODc4OTM5MzIsImV4cCI6MTQ5MDc3NDI5MzkzMn0.WOCZn2kJuoHhhdoq7wyFgn-dJC2teH3_RPxZuSwjCVk&lan=%5B%22zh%22%5D&setLanguage=true
+#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro%2F32680c65-0060-4337-bc51-092683613296.png" tvg-id="CHN" group-title="📻 | Radio",MELODY
+http://astro3.rastream.com/melody?awparams=companionads:true;tags:radioactive;stationid:amp-melody&playerid=MELODY_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTU1NjAsImV4cCI6MTUzNzgwMTk2MH0.Y5rRnKwPpBiaFL--nplqrezUmaHLJoHDZnJsG99o10o
+#EXTINF:-1 tvg-logo="http://www.moneyfm893.sg//wp-content/assets/2/img/moneyfm893.png" tvg-id="CHN" group-title="📻 | Radio",Money 893 Radio
+http://22283.live.streamtheworld.com:80/MONEY_893AAC.aac
+#EXTINF:-1 tvg-logo="https://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="📻 | Radio",NAGA FM - SINGAPORE
+http://songs.nagafm.com:8006/stream.mp3;
+#EXTINF:-1 tvg-logo="http://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="📻 | Radio",Naga FM Online - Singapore
+http://songs.nagafm.com:8006/
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli968fm-logoImage.png" tvg-id="CHN" group-title="📻 | Radio",Oli 968 Radio
+http://22893.live.streamtheworld.com:80/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",One FM
+http://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",ONE FM
+http://23683.live.streamtheworld.com:80/ONE_FM_913AAC.aac?dist=radiosingaporeapp
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",ONE FM 91.3 SPH AAC
+http://22283.live.streamtheworld.com:80/ONE_FM_913AAC.aac
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/80869.v3.png" tvg-id="CHN" group-title="📻 | Radio",Orion Station
+http://188.165.192.5:8528/;
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/15268.v3.png" tvg-id="CHN" group-title="📻 | Radio",Radio Melody with Brother Bjorn
+http://ssl.geckohost.nz:9191/autodj
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria897fm-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio",Ria 897 Radio
+http://23253.live.streamtheworld.com:80/RIA897FMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/radiorosak/RRStudios.jpg" tvg-id="CHN" group-title="📻 | Radio",RADIOROSAK
+http://51.15.152.81:9114/stream
+#EXTINF:-1 tvg-logo="http://www.963haofm.sg//wp-content/assets/1/img/fm963.png" tvg-id="CHN" group-title="📻 | Radio",SPH 963 Radio
+http://22283.live.streamtheworld.com:80/HAO_963AAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony924-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio",Symphony 924 Radio
+http://22893.live.streamtheworld.com:80/SYMPHONY924AAC.aac
+#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro/e4bfb847-9b40-4d4f-9378-f6b9a30805ad.png" tvg-id="CHN" group-title="📻 | Radio",Sinar FM
+http://astro2.rastream.com/sinar
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/UFM_LOGO.jpg/220px-UFM_LOGO.jpg" tvg-id="CHN" group-title="📻 | Radio",UFM 100.3 Radio
+http://22253.live.streamtheworld.com:80/UFM_1003AAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio",Warna 942 Radio
+http://22903.live.streamtheworld.com:80/WARNA942FMAAC.aac
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/5/92895.v5.png" tvg-id="CHN" group-title="📻 | Radio",XRadio
+http://xradio.zone:9420/stream
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio",Yes 933
+https://22903.live.streamtheworld.com:443/YES933AAC_SC
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" tvg-id="CHN" group-title="📻 | Radio",YES 933 Radio
+http://22893.live.streamtheworld.com:80/YES933AAC.aac
+#EXTINF:-1 tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" tvg-id="CHN" group-title="📻 | Radio",友声友色988
+http://22283.live.streamtheworld.com/988_FMAAC.aac
+
+#######################################################################################################################################################################
 
 <noscript><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6fc5f459b9be49fc',m:'SpbH5OyFmOgeF7arEiv4PGYSyolg3rPwpl0RDHmezrE-1650039059-0-Aci1lKiDfYx/FZkM6tFb+mzCcNPXlxm8nzZ56LrlDQr8BshLzOE71ihlL9eXatTBgBznaS3674G86yV9QR6cHX70cICyErq9v1CrI+cfPXtErRvuNHA6h8o5xLH9Qi3lGA==',s:[0x60a64ed4af,0x954e9c5a5c],u:'/cdn-cgi/challenge-platform/h/b'}})();</script>
