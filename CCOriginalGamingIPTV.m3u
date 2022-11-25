@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-id="CHN" group-title="[-CreatorInfo-]" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / Tester Version !!
 https://www.dropbox.com/s/yok1s8nyf2k7y1j/Intro%26Info%20VodII.mp4?dl=0&raw=true
 
+#EXTINF:-1 tvg-id="CHN" group-title="[-CreatorInfo-]" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / Tester Version !!
+https://www.dropbox.com/s/yok1s8nyf2k7y1j/Intro%26Info%20VodII.mp4?dl=0&raw=true
+
+
 #######################################################################################################################################################################
 
 #EXTGRP: ▶ | YouTube-exclusive-channels
@@ -10,12 +14,6 @@ https://www.dropbox.com/s/yok1s8nyf2k7y1j/Intro%26Info%20VodII.mp4?dl=0&raw=true
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669249823/ei/v2Z-Y6uiIYjd4-EP9qWG4Ag/ip/175.144.164.187/id/iEBUvBg3wV0.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/my/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPBSz-LKdB5cHUDVyHVOOeEm45MinpavbkUIQs48iGkuAiBtUbE1FITm-NmCin8JftsptXBzuX0k4nm40SzYSWFOdg%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",Greatest Hits 90s English 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669250577/ei/sWl-Y7K6DomG3LUP-YyH0AU/ip/175.144.164.187/id/mk73cXTBeLc.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJcmatAj5H4PTYVMsmdudIUYYpTZcPEcXGyz8Cxeec5eAiAYrRmcZ6uDnuqWRZuvU-IjMHN0Em1i-ioCumoV9vJP3Q%3D%3D/file/index.m3u8
-
-#######################################################################################################################################################################
-
-#EXTGRP: 🌠 | Entertainment-Anime-Song
-#EXTINF:-1 group-title="🌠 | Entertainment-Anime-Song" tvg-id="DIGIMON" tvg-logo="https://scdn.nflximg.net/images/3139/20923139.jpg",Digimon Home
-https://www.dropbox.com/s/vfyizwwdv7njqbp/Digimon%20Adventure%20%28Dejimon%20adobench%C3%A2%29.mp4?dl=0
 
 #######################################################################################################################################################################
 
@@ -1079,6 +1077,9 @@ https://www.dropbox.com/s/zpncxycqac4pp13/Bleach-%20Thousand-Year%20Blood%20War%
 
 #EXTINF:-1 type="movie" group-title="Anime(P)" tvg-logo="https://cdn.myanimelist.net/images/anime/1764/126627.jpg",Bleach- Thousand-Year Blood War Episode 7
 https://www.dropbox.com/s/w8g3008kxnox2sj/Bleach-%20Thousand-Year%20Blood%20War%20Episode%207%20Online.mp4.mp4?dl=0&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Anime(P)" tvg-logo="https://scdn.nflximg.net/images/3139/20923139.jpg",Digimon Adventure-(Dejimon adobenchâ)
+https://www.dropbox.com/s/vfyizwwdv7njqbp/Digimon%20Adventure%20%28Dejimon%20adobench%C3%A2%29.mp4?dl=0&raw=true&type=file.mp4
 
 #######################################################################################################################################################################
 
