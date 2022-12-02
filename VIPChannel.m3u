@@ -437,7 +437,7 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
 #######################################################################################################################################################################
 
 #EXTGRP: 📺 | Netflix-Channel
-#EXTINF:-1 group-title="📺 | Netflix-Channel-Channel" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 1
+#EXTINF:-1 group-title="📺 | Netflix-Channel" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924735
 #EXTINF:-1 group-title="📺 | Netflix-Channel" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924736
