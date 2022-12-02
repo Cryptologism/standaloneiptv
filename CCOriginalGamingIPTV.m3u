@@ -25,15 +25,36 @@ https://www.dropbox.com/s/iqykgp634unepbn/DigimonIklan.mp4?dl=0&raw=true
 #EXTINF:-1 group-title="🏆 | Promote-Your-Ads-Here" ch-number="3" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / Tester Version !!
 https://www.dropbox.com/s/iqykgp634unepbn/DigimonIklan.mp4?dl=0&raw=true
 
+#EXTINF:-1 tvg-id="GoShopBARU" group-title="🏆 | Promote-Your-Ads-Here" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2508
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
+
+#EXTINF:-1 tvg-id="GoShopRUMA" ch-number="118" group-title="🏆 | Promote-Your-Ads-Here" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2501
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+
+#EXTINF:-1 tvg-id="GoShopGAYA" ch-number="120" group-title="🏆 | Promote-Your-Ads-Here" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",120 Go Shop GAAYA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/507
+https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+
 
 #######################################################################################################################################################################
 
-#EXTGRP: ▶ | YouTube-exclusive-channels
-#EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",Lagu Hits Indonesian Tahun 2000an Terpopular
+#EXTGRP: 🎶 | Music-Channel
+#EXTINF:-1 group-title="🎶 | Music-Channel" tvg-id="CHN",Lagu Hits Indonesian Tahun 2000an Terpopular
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670019284/ei/dCSKY4icCZ2C1d8Pv6yM4Aw/ip/175.145.64.161/id/icHcgfstQIM.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/my/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKVk0aFWrpBi1FCdDuHTiJxIpLVKswS9Gj_oK5HldeWbAiEAi4WumEfPCjjGEBU3C1uksnU6KraXL-s3IR0PsmI3RNs%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="▶ | YouTube-exclusive channels" tvg-id="CHN",Greatest Hits 90s English 1
+#EXTINF:-1 group-title="🎶 | Music-Channel" tvg-id="CHN",Greatest Hits 90s English 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669250577/ei/sWl-Y7K6DomG3LUP-YyH0AU/ip/175.144.164.187/id/mk73cXTBeLc.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJcmatAj5H4PTYVMsmdudIUYYpTZcPEcXGyz8Cxeec5eAiAYrRmcZ6uDnuqWRZuvU-IjMHN0Em1i-ioCumoV9vJP3Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Variety" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",718 MTV Asia HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
 
 #######################################################################################################################################################################
 
@@ -216,6 +237,19 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#######################################################################################################################################################################
+
+#EXTGRP: 🔍 | International
+#EXTINF:-1 tvg-id="DW" group-title="🔍 | International" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
+
+#EXTINF:-1 tvg-id="France24" group-title="🔍 | International" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",522 France 24 English 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
 #######################################################################################################################################################################
 
@@ -594,58 +628,13 @@ https://aqfadtv.xyz/live/citra/index.mpd
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
 
-#EXTINF:-1 tvg-id="GoShopBAARU" group-title="Shopping" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2508
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="113" tvg-id="113" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/salam/index.mpd
-
 #EXTINF:-1 tvg-id="ColorsHD" group-title="Indian" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2611
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="116" tvg-id="116" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/201907160646463946q7.png",116 Hypp Sensasi HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/hyppsensasi/index.mpd
-
-#EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="Shopping" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2501
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="118" tvg-id="118" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716071701239brh.png",118 Hypp Inspirasi HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/hyppinspirasi/index.mpd
-
-#EXTINF:-1 tvg-id="GoShopGAAYA" ch-number="120" group-title="Shopping" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",120 Go Shop GAAYA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/507
-https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
-
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="128" tvg-id="128" tvg-chno="128" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/duniasinema/index.mpd
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="141" tvg-id="141" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png",141 Pesona HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/pesona/index.mpd
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="151" tvg-id="151" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 Laku Mall HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/laku/index.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -885,28 +874,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 #EXTINF:-1 tvg-id="CHN" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png" ch-number="463",463 Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SGEM.id" ch-number="471" group-title="Wireguard Needed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",471 GEM
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-https://live.astradamy.com/unifitv/gem/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",472 Animax HD
-https://live.astradamy.com/unifitv/animax/index.mpd
-
-#EXTINF:-1 tvg-id="473" ch-number="473" group-title="Wireguard Needed" tvg-logo="https://aqfad2811.s-ul.eu/9mIAiqQ2",473 Rock Entertainment
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/rockentertainment/index.mpd
-
-#EXTINF:-1 tvg-id="474" ch-number="474" group-title="Wireguard Needed" tvg-logo="https://aqfad2811.s-ul.eu/pnCvR70x",474 Rock Extreme
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/rockextreme/index.mpd
-
 #EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
@@ -968,31 +935,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/904
 http://linearjitp-playback.astro.com.my/dash-wv/linear/904/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DW" group-title="GO Exclusive" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="521" tvg-id="521" tvg-chno="521" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png",521 Travel Channel HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/travelchannel/index.mpd
-
-#EXTINF:-1 tvg-id="France24" group-title="GO Exclusive" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",522 France 24 English 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="550" tvg-id="550" tvg-chno="550" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png",Dreamworks HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw 
-https://live.astradamy.com/unifitv/dreamworks/index.mpd
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="553" tvg-id="553" tvg-chno="553" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png",CBeebies HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw 
-https://live.astradamy.com/unifitv/cbeebies/index.mpd
-
 #EXTINF:-1 tvg-id="AstroTutorTVSK" group-title="Education" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/TutorTVSK.png/revision/latest?cb=20210614003048" ch-number="601",601 Astro Tutor TV SK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5070
@@ -1019,35 +961,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Unifi-Sports-3.png/revision/latest?cb=20210712113331",unifi Sports 3 HD
-https://live.astradamy.com/unifitv/unifisports3/index.mpd
-
 #EXTINF:-1 tvg-id="Primetime" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" ch-number="704",704 PRIMEtime HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Unifi-Sports-4.png/revision/latest?cb=20210712113617",unifi Sports 4 HD
-https://live.astradamy.com/unifitv/unifisports4/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Unifi-Sports-5.png/revision/latest?cb=20210712113706",unifi Sports 5 HD
-https://live.astradamy.com/unifitv/unifisports5/index.mpd
-
 #EXTINF:-1 tvg-id="HITS" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png" ch-number="706",706 HITS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="707" tvg-id="SPOTV2" tvg-chno="SPOTV2" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png",SPOTV2 HD
-https://live.astradamy.com/unifitv/spotv2/index.mpd
 
 #EXTINF:-1 tvg-id="TLC" group-title="Entertainment" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="707",707 TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1093,11 +1015,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
-
-#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Variety" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",718 MTV Asia HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="Sports" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1426,10 +1343,6 @@ https://live.astradamy.com/ikimfm/index.m3u8
 
 #EXTINF:-1, group-title="Radio Stations" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",Radio IKIM
 https://asrazunifi.ddns.net:8443/ikim.m3u8
-
-
-#EXTINF:-1 tvg-id="OutdoorChannel" group-title="Sirius TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444",Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama.jpg",Penunggang Agama
 https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4&raw=true&type=file.mp4
@@ -1867,11 +1780,6 @@ https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/493f1710-26a3-591a-902
 
 #EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://onedrive.astradamy.com//api?path=%2F%2F0.jpg&raw=true" group-title="Events",Astro 25 Concert
 https://onedrive.aqfadtv.xyz/api?path=/VOD/Events/Astro25-Concert.mp4&raw=true&type=file.mp4
-
-#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://linear-poster.astro.com.my/prod/poster/JWRIK_IVP_LAND_672x378.jpg" group-title="VOD",Astro 25 Concert Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b27bea55aa0f4b4d9955f7587a30910&key=07350898db92952d15dcd6ef1a956a8a
-https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/e192fc4a-9f1e-56ea-ace3-2ce0181a9650/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_IVP_LAND_448x252_20211126_82221.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 1
 https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.1.1080p.H264-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
