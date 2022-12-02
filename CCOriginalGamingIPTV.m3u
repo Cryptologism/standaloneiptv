@@ -240,13 +240,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
 #######################################################################################################################################################################
 
-#EXTGRP: 🔍 | International
-#EXTINF:-1 tvg-id="DW" group-title="🔍 | International" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
+#EXTGRP: 🏁 | International
+#EXTINF:-1 tvg-id="DW" group-title="🏁 | International" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 
-#EXTINF:-1 tvg-id="France24" group-title="🔍 | International" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",522 France 24 English 
+#EXTINF:-1 tvg-id="France24" group-title="🏁 | International" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",522 France 24 English 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
