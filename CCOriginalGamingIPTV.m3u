@@ -58,195 +58,195 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #######################################################################################################################################################################
 
-#EXTGRP: 💃 | Relaxing
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Beaches Live
+#EXTGRP: 💃 | Relaxing-Channel
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Mountains Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Mountains Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Rivers Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Tropics Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Lakes Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Lakes Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Animals Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Forests Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Forests Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Sunsets Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Sunsets Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Aurora Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing",Nature
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #######################################################################################################################################################################
 
-#EXTGRP: 🍭 | Kids
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="🍭 | Kids" tvg-logo="https://aqfadtv.astradamy.com/logos/XiaoTaiYang.png",304 Astro Xiao Tai Yang
+#EXTGRP: 🍭 | Kids-Channel
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="🍭 | Kids-Channel" tvg-logo="https://aqfadtv.astradamy.com/logos/XiaoTaiYang.png",304 Astro Xiao Tai Yang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroCeria" group-title="🍭 | Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
+#EXTINF:-1 tvg-id="AstroCeria" group-title="🍭 | Kids-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TA-DAA!" group-title="🍭 | Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
+#EXTINF:-1 tvg-id="TA-DAA!" group-title="🍭 | Kids-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5024
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="🍭 | Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ch-number="615",615 Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="🍭 | Kids-Channel" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ch-number="615",615 Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/509
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="🍭 | Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",616 Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="🍭 | Kids-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",616 Nickelodeon 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2511
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
-#EXTINF:-1 tvg-id="NickJr" group-title="🍭 | Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="617",617 Nick Jr.
+#EXTINF:-1 tvg-id="NickJr" group-title="🍭 | Kids-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="617",617 Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9982
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="🍭 | Kids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",618 Moonbug Kids
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="🍭 | Kids-Channel" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",618 Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5067
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Boomerang" group-title="🍭 | Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" ch-number="619",619 Boomerang HD
+#EXTINF:-1 tvg-id="Boomerang" group-title="🍭 | Kids-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" ch-number="619",619 Boomerang HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 
 #######################################################################################################################################################################
 
-#EXTGRP: 🔍 | Knowledge
+#EXTGRP: 🔍 | Knowledge-Channel
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Animal
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Animal
 https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="AnimalPlanetHongKong.hk",Animal Planet Mandarin
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="AnimalPlanetHongKong.hk",Animal Planet Mandarin
 http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="BBCEarthAsia.uk" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",BBC Earth
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="BBCEarthAsia.uk" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-documentary-int.png",CGTN Documentary
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-documentary-int.png",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Discover
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="",Discovery
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="",Discovery
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/discovery-asia-hk.png",Discovery Asia
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/discovery-asia-hk.png",Discovery Asia
 http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/224.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DiscoveryScienceHongKong.hk" tvg-logo="",Discovery Science
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="DiscoveryScienceHongKong.hk" tvg-logo="",Discovery Science
 http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 ##http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="DocuBox.us" tvg-logo="",DocuBox
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="DocuBox.us" tvg-logo="",DocuBox
 http://iptv.prosto.tv:7000/ch93/video.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",History (AnthymTV)
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="HistoryAsia.sg",History (A+E Networks)
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="HistoryAsia.sg",History (A+E Networks)
 http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/412.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="LoveNature4K.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="LoveNature4K.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NationalGeographicHDSingapore.sg" tvg-logo="",National Geographic
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="NationalGeographicHDSingapore.sg" tvg-logo="",National Geographic
 http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/398.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="NationalGeographicWildHDSingapore.sg" tvg-logo="",National Geographic Wild
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="NationalGeographicWildHDSingapore.sg" tvg-logo="",National Geographic Wild
 http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/403.m3u8
 
-#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="🔍 | Knowledge",NASA TV
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="🔍 | Knowledge-Channel",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Outdoors
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Outdoors
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Outdoors/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="OutdoorChannelInternational.us" tvg-logo="",Outdoor Channel
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="OutdoorChannelInternational.us" tvg-logo="",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/rt-documentary-int.png" group-title="🔍 | Knowledge",RT Documentary
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/rt-documentary-int.png" group-title="🔍 | Knowledge-Channel",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="Pulse.uk",Pulse
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="Pulse.uk",Pulse
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="🔍 | Knowledge" tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/smithsonian-channel-ca.png",Smithsonian Channel 
+#EXTINF:-1 group-title="🔍 | Knowledge-Channel" tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/smithsonian-channel-ca.png",Smithsonian Channel 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NatGeoWild" group-title="🔍 | Knowledge" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",550 National Geographic Wild
+#EXTINF:-1 tvg-id="NatGeoWild" group-title="🔍 | Knowledge-Channel" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",550 National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 
-#EXTINF:-1 tvg-id="NationalGeographic" group-title="🔍 | Knowledge" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic" group-title="🔍 | Knowledge-Channel" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
 http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryChannel" group-title="🔍 | Knowledge" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",552 Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel" group-title="🔍 | Knowledge-Channel" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",552 Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryAsia" group-title="🔍 | Knowledge" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png" ch-number="553",553 Discovery Asia
+#EXTINF:-1 tvg-id="DiscoveryAsia" group-title="🔍 | Knowledge-Channel" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png" ch-number="553",553 Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
-#EXTINF:-1 tvg-id="History" group-title="🔍 | Knowledge" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" ch-number="555",555 History HD
+#EXTINF:-1 tvg-id="History" group-title="🔍 | Knowledge-Channel" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" ch-number="555",555 History HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AnimalPlanet" group-title="🔍 | Knowledge" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",556 Animal Planet HD 
+#EXTINF:-1 tvg-id="AnimalPlanet" group-title="🔍 | Knowledge-Channel" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",556 Animal Planet HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BBCEarth" group-title="🔍 | Knowledge" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",554 BBC Earth HD
+#EXTINF:-1 tvg-id="BBCEarth" group-title="🔍 | Knowledge-Channel" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",554 BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
 #######################################################################################################################################################################
 
-#EXTGRP: 🏁 | International
-#EXTINF:-1 tvg-id="DW" group-title="🏁 | International" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
+#EXTGRP: 🏁 | International-Channel
+#EXTINF:-1 tvg-id="DW" group-title="🏁 | International-Channel" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9984
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 
-#EXTINF:-1 tvg-id="France24" group-title="🏁 | International" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",522 France 24 English 
+#EXTINF:-1 tvg-id="France24" group-title="🏁 | International-Channel" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",522 France 24 English 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
@@ -256,276 +256,85 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 #EXTGRP: 🎾🎮 | Sports/Gaming
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="🎾🎮 | Sports/Gaming" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8
-
 #EXTINF:-1 tvg-id="701" group-title="🎾🎮 | Sports/Gaming"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
 #EXTINF:-1 group-title="🎾🎮 | Sports/Gaming" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
 #EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2602
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
-
 #EXTINF:-1 tvg-id="eGGNetwork" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD (Backup) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyNTE0NyIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI4ZDAyYWY3YV80OWU0XzRiMzFfOTc2NF9kODExZDAxOGM1ZTgiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=MVwsDAWAMC4eWzkaIlezBFnIo%2bw%3d&sessionId=bcf92db3-5f97-dffd-f993-8aa131b68d23:98ee194b-b55d-b01f-1055-b1f895fca85f&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1tcGwtbXktc2Vhc29uLTktLS13ZWVrLTgtZGF5JTI1MjAxLzEwOTQ0ODkvcGxheWVyP2xpbmVhcklkPTEwMDE0NjI4NSZpc0xpdmU9dHJ1ZQ==
 https://linear03-playback.sooka.my/CH3/masterCH3.mpd
-
 #EXTINF:-1 tvg-id="AstroArena" group-title="🎾🎮 | Sports/Gaming" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
 #EXTINF:-1 tvg-id="AstroArena" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena (Backup) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyNTE2NiIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI5Yjk5ODg5NF9mMTg4XzRmNjRfOTgxZV9mNjM3NDRjYmVmYjEiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=ziS7s5Men%2blO%2ftFoKWcVASjsg6s%3d&sessionId=c83a556a-cc0d-6060-7835-0a7de48435cb:055955a3-3b21-6296-8942-85bdc8edac54&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1mdXRzYWwtLXNmLTItdGhhLWx3bi12aWUvMTA5NDQ5MC9wbGF5ZXI/bGluZWFySWQ9MTAwMTQ2MzE5JmlzTGl2ZT10cnVl
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
-
 #EXTINF:-1 tvg-id="AstroArena2" group-title="🎾🎮 | Sports/Gaming" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
 #EXTINF:-1 tvg-id="AstroArena2" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2 (Backup) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xNDcxODY1OCIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI5YThkNTQwNV9lMDM5XzQ0MzZfOGE2Nl8zN2UwMWM5ZjI1NmUiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=2ZVgsPd9l17XIQG2AqDml5HqwoM%3d&sessionId=73378462-6372-c4d9-ecdc-cdf4f0858388:c909437c-a56f-a6a6-98b0-bcf128ab9094&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1qay0tamduLWthbmppb25nLzEyMDg0NTIvcGxheWVyP2xpbmVhcklkPTEwMDE0NjU1OCZpc0xpdmU9dHJ1ZQ==
 https://linear04-playback.sooka.my/CH5/masterCH5.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
 #EXTINF:-1 tvg-id="AOTGLive1" ch-number="809" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 Astro Supersport Plus HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
 #EXTINF:-1 tvg-id="SPOTV2" ch-number="810" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",810 SPOTV2 HD (Astro Temporary)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
-
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="🎾🎮 | Sports/Gaming" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
 http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="🎾🎮 | Sports/Gaming" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 https://aqfadtv.xyz/live/supersport2/index.mpd
-
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="🎾🎮 | Sports/Gaming" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
 https://aqfadtv.xyz/live/supersport3/index.mpd
-
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="🎾🎮 | Sports/Gaming" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
 https://aqfadtv.xyz/live/supersport4/index.mpd
-
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="🎾🎮 | Sports/Gaming" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
-
 #EXTINF: -1 tvg-id="SPOTV" group-title="🎾🎮 | Sports/Gaming" ch-number="816" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",816 SPOTV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-
 #EXTINF: -1 tvg-id="SPOTV" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",816 SPOTV (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xNDczMTI0NSIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJlNTU4NGNmZl9kNjE1XzQ5MTNfOTdiOF9jZGVkNWU2NzljMTkiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=5PcnkQKN6zfOvBlfeudUwYjSds4%3d&sessionId=6172c186-e652-97e5-7711-b218371bf485:4932df4d-6294-abef-d60c-60cc3a1ec7f5&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5LzIwMjItYXNpYW4tbGUtbWFucy1zZXJpZXMtcmFjZS00LzEyMDk0NTkvcGxheWVyP2xpbmVhcklkPTEwMDE0NjUzMiZpc0xpdmU9dHJ1ZQ==
 https://linear03-playback.sooka.my/CH1/masterCH1.mpd
-
 #EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",817 beIN Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeWtmTnlza01GSTVDV3QzeVRUbi1FYk8xVk9OX1hrdnM5eFhhY1puT29lTnFtbUduZnRqYzFWRWtwU19yOHhZUHQ3dm1RY0Y1MU8wcEFjWG55SVl3TmtreGJMV21abmFUWTMwcVRtT01lb3RiM1Y2OWlmOWxXS3RxTjJhOVp5dDVoaUc1dDZKcWd1RV9TbW50bTRqamE4RnNvQ25ETnpCUktleDdRVHQzaGNoeV90Szd5cTMyYnYwS25udzNFbzFweXhaRzJRWWZuZVFrUlBBNlVNdXc0RjQ3T2FTZVBUaDk2aktyNUxTRUE1THBMRFkxbF8yQ0NzU2NtOEtJR1dPeWl1WmFfYjdLcC1oWm43cWhnNkNXSmRZanVLU2lPcV9ZSzcxVkJFS2VIbktyRm5mSFJKTWN3ZHBUN25pbWZEY3pVbktweW85VkI3Q2hKaVBpQndJQm42MUNDQ2p1ek5HTzc0X0ZJLTY0ZFdhenBPV0RkYzhyTVdmR2JkV01YYTZPeGNKUGZkbFBmWjktVmhZek5WQXlZeEdyVlNONmx4Qjhlbl9zUEhoSDlrOVdDekxxeV9sTzlzbXhCTHAtbW9iUU1JWDA3cjhEZzIyOUZ0Sk9xeFpPOUJPQXZ3aWRlbXZ5YXJGT0ttbWRzRTl3PT0mY29udGV4dFR5cGU9bm9uZSZpZD0xNTQ5ODY2OCIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJhNTc3MTg0ZV9kNmM2XzQ1NjBfYmViOF83Yzk2ZWU3OGY3YjgiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09YeWtmTnlza01GSTVDV3QzeVRUbi1FYk8xVk9OX1hrdnM5eFhhY1puT29lTnFtbUduZnRqYzFWRWtwU19yOHhZUHQ3dm1RY0Y1MU8wcEFjWG55SVl3TmtreGJMV21abmFUWTMwcVRtT01lb3RiM1Y2OWlmOWxXS3RxTjJhOVp5dDVoaUc1dDZKcWd1RV9TbW50bTRqamE4RnNvQ25ETnpCUktleDdRVHQzaGNoeV90Szd5cTMyYnYwS25udzNFbzFweXhaRzJRWWZuZVFrUlBBNlVNdXc0RjQ3T2FTZVBUaDk2aktyNUxTRUE1THBMRFkxbF8yQ0NzU2NtOEtJR1dPeWl1WmFfYjdLcC1oWm43cWhnNkNXSmRZanVLU2lPcV9ZSzcxVkJFS2VIbktyRm5mSFJKTWN3ZHBUN25pbWZEY3pVbktweW85VkI3Q2hKaVBpQndJQm42MUNDQ2p1ek5HTzc0X0ZJLTY0ZFdhenBPV0RkYzhyTVdmR2JkV01YYTZPeGNKUGZkbFBmWjktVmhZek5WQXlZeEdyVlNONmx4Qjhlbl9zUEhoSDlrOVdDekxxeV9sTzlzbXhCTHAtbW9iUU1JWDA3cjhEZzIyOUZ0Sk9xeFpPOUJPQXZ3aWRlbXZ5YXJGT0ttbWRzRTl3PT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01ZGVkMWU1Ni1hNzZjLTI4Y2MtNmUyOC1iYTRjNDk0NDg2NjQiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=UC8ZeN1HxfbZiZFnnTgvPB%2fjCDg%3d&sessionId=5f3ab594-51dd-3f23-e71d-d57d2eb8600e:9fd21e4b-d6f2-e571-6a38-cfb6e7d5f91d&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2F0cC10b3VyLTEwMDAtLTIwMjItLzEyNjIwMDIvcGxheWVyP2xpbmVhcklkPTEwMDE0NTU1NiZpc0xpdmU9dHJ1ZQ==
 #EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",817 beIN Sports 2 HD (Backup)
 https://linear02-playback.sooka.my/CH3/masterCH3.mpd
-
 #EXTINF:-1 tvg-id="beINSports" group-title="🎾🎮 | Sports/Gaming" ch-number="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",818 beIN Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
 #EXTINF:-1 tvg-id="beINSports3" group-title="🎾🎮 | Sports/Gaming" ch-number="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242",819 beIN Sports 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
 #EXTINF:-1 tvg-id="Eurosport" group-title="🎾🎮 | Sports/Gaming" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
-
 #EXTINF:-1 tvg-id="Eurosport" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyNTM2MyIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJhNWExYTU5ZF8xMGZmXzRiNGRfOGM0YV8yMWVhYWI0MjNkOGQiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=I2tQVS0UwKcfOIBmLLpAb%2fWgzhA%3d&sessionId=b2650998-921a-4c6f-4806-94fea37a8c32:98b26451-8cd0-df19-be93-1464204905cd&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2RhcnRzLS13b3JsZC1kYXJ0cy1mcmltbGV5LWdyZWVuLzEwOTQ1MTEvcGxheWVyP2xpbmVhcklkPTEwMDE0NjQyNiZpc0xpdmU9dHJ1ZQ==
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
-
 #EXTINF:-1 tvg-id="WWENetwork" group-title="🎾🎮 | Sports/Gaming" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
 #EXTINF:-1 tvg-id="GolfChannel" group-title="🎾🎮 | Sports/Gaming" ch-number="822" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",822 Golf Channel HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
-
 #EXTINF:-1 tvg-id="PremierSports" group-title="🎾🎮 | Sports/Gaming" ch-number="823" tvg-logo="https://aqfadtv.astradamy.com/logos/PremierSports2021.png",823 Premier Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
 #EXTINF:-1 tvg-id="AstroCricket" group-title="🎾🎮 | Sports/Gaming" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astro Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-
-#EXTINF:-1 tvg-id="701" group-title="🎾🎮 | Sports/Gaming"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 group-title="🎾🎮 | Sports/Gaming" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2602
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
-
-#EXTINF:-1 tvg-id="eGGNetwork" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD (Backup) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyNTE0NyIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI4ZDAyYWY3YV80OWU0XzRiMzFfOTc2NF9kODExZDAxOGM1ZTgiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=MVwsDAWAMC4eWzkaIlezBFnIo%2bw%3d&sessionId=bcf92db3-5f97-dffd-f993-8aa131b68d23:98ee194b-b55d-b01f-1055-b1f895fca85f&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1tcGwtbXktc2Vhc29uLTktLS13ZWVrLTgtZGF5JTI1MjAxLzEwOTQ0ODkvcGxheWVyP2xpbmVhcklkPTEwMDE0NjI4NSZpc0xpdmU9dHJ1ZQ==
-https://linear03-playback.sooka.my/CH3/masterCH3.mpd
-
-#EXTINF:-1 tvg-id="AstroArena" group-title="🎾🎮 | Sports/Gaming" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroArena" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena (Backup) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyNTE2NiIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI5Yjk5ODg5NF9mMTg4XzRmNjRfOTgxZV9mNjM3NDRjYmVmYjEiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=ziS7s5Men%2blO%2ftFoKWcVASjsg6s%3d&sessionId=c83a556a-cc0d-6060-7835-0a7de48435cb:055955a3-3b21-6296-8942-85bdc8edac54&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1mdXRzYWwtLXNmLTItdGhhLWx3bi12aWUvMTA5NDQ5MC9wbGF5ZXI/bGluZWFySWQ9MTAwMTQ2MzE5JmlzTGl2ZT10cnVl
-https://linear03-playback.sooka.my/CH4/masterCH4.mpd
-
-#EXTINF:-1 tvg-id="AstroArena2" group-title="🎾🎮 | Sports/Gaming" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroArena2" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2 (Backup) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xNDcxODY1OCIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI5YThkNTQwNV9lMDM5XzQ0MzZfOGE2Nl8zN2UwMWM5ZjI1NmUiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=2ZVgsPd9l17XIQG2AqDml5HqwoM%3d&sessionId=73378462-6372-c4d9-ecdc-cdf4f0858388:c909437c-a56f-a6a6-98b0-bcf128ab9094&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1qay0tamduLWthbmppb25nLzEyMDg0NTIvcGxheWVyP2xpbmVhcklkPTEwMDE0NjU1OCZpc0xpdmU9dHJ1ZQ==
-https://linear04-playback.sooka.my/CH5/masterCH5.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
-#EXTINF:-1 tvg-id="AOTGLive1" ch-number="809" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",809 Astro Supersport Plus HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
-#EXTINF:-1 tvg-id="SPOTV2" ch-number="810" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",810 SPOTV2 HD (Astro Temporary)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="🎾🎮 | Sports/Gaming" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
-http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport2" group-title="🎾🎮 | Sports/Gaming" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
-https://aqfadtv.xyz/live/supersport2/index.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="🎾🎮 | Sports/Gaming" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-https://aqfadtv.xyz/live/supersport3/index.mpd
-
-#EXTINF:-1 tvg-id="AstroSupersport4" group-title="🎾🎮 | Sports/Gaming" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-https://aqfadtv.xyz/live/supersport4/index.mpd
-
-#EXTINF: -1 tvg-id="AstroSupersport5" group-title="🎾🎮 | Sports/Gaming" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-
-#EXTINF: -1 tvg-id="AstroSupersport5" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
-
-#EXTINF: -1 tvg-id="SPOTV" group-title="🎾🎮 | Sports/Gaming" ch-number="816" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",816 SPOTV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
-
-#EXTINF: -1 tvg-id="SPOTV" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",816 SPOTV (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xNDczMTI0NSIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJlNTU4NGNmZl9kNjE1XzQ5MTNfOTdiOF9jZGVkNWU2NzljMTkiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=5PcnkQKN6zfOvBlfeudUwYjSds4%3d&sessionId=6172c186-e652-97e5-7711-b218371bf485:4932df4d-6294-abef-d60c-60cc3a1ec7f5&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5LzIwMjItYXNpYW4tbGUtbWFucy1zZXJpZXMtcmFjZS00LzEyMDk0NTkvcGxheWVyP2xpbmVhcklkPTEwMDE0NjUzMiZpc0xpdmU9dHJ1ZQ==
-https://linear03-playback.sooka.my/CH1/masterCH1.mpd
-
-#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",817 beIN Sports 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5013
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeWtmTnlza01GSTVDV3QzeVRUbi1FYk8xVk9OX1hrdnM5eFhhY1puT29lTnFtbUduZnRqYzFWRWtwU19yOHhZUHQ3dm1RY0Y1MU8wcEFjWG55SVl3TmtreGJMV21abmFUWTMwcVRtT01lb3RiM1Y2OWlmOWxXS3RxTjJhOVp5dDVoaUc1dDZKcWd1RV9TbW50bTRqamE4RnNvQ25ETnpCUktleDdRVHQzaGNoeV90Szd5cTMyYnYwS25udzNFbzFweXhaRzJRWWZuZVFrUlBBNlVNdXc0RjQ3T2FTZVBUaDk2aktyNUxTRUE1THBMRFkxbF8yQ0NzU2NtOEtJR1dPeWl1WmFfYjdLcC1oWm43cWhnNkNXSmRZanVLU2lPcV9ZSzcxVkJFS2VIbktyRm5mSFJKTWN3ZHBUN25pbWZEY3pVbktweW85VkI3Q2hKaVBpQndJQm42MUNDQ2p1ek5HTzc0X0ZJLTY0ZFdhenBPV0RkYzhyTVdmR2JkV01YYTZPeGNKUGZkbFBmWjktVmhZek5WQXlZeEdyVlNONmx4Qjhlbl9zUEhoSDlrOVdDekxxeV9sTzlzbXhCTHAtbW9iUU1JWDA3cjhEZzIyOUZ0Sk9xeFpPOUJPQXZ3aWRlbXZ5YXJGT0ttbWRzRTl3PT0mY29udGV4dFR5cGU9bm9uZSZpZD0xNTQ5ODY2OCIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJhNTc3MTg0ZV9kNmM2XzQ1NjBfYmViOF83Yzk2ZWU3OGY3YjgiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09YeWtmTnlza01GSTVDV3QzeVRUbi1FYk8xVk9OX1hrdnM5eFhhY1puT29lTnFtbUduZnRqYzFWRWtwU19yOHhZUHQ3dm1RY0Y1MU8wcEFjWG55SVl3TmtreGJMV21abmFUWTMwcVRtT01lb3RiM1Y2OWlmOWxXS3RxTjJhOVp5dDVoaUc1dDZKcWd1RV9TbW50bTRqamE4RnNvQ25ETnpCUktleDdRVHQzaGNoeV90Szd5cTMyYnYwS25udzNFbzFweXhaRzJRWWZuZVFrUlBBNlVNdXc0RjQ3T2FTZVBUaDk2aktyNUxTRUE1THBMRFkxbF8yQ0NzU2NtOEtJR1dPeWl1WmFfYjdLcC1oWm43cWhnNkNXSmRZanVLU2lPcV9ZSzcxVkJFS2VIbktyRm5mSFJKTWN3ZHBUN25pbWZEY3pVbktweW85VkI3Q2hKaVBpQndJQm42MUNDQ2p1ek5HTzc0X0ZJLTY0ZFdhenBPV0RkYzhyTVdmR2JkV01YYTZPeGNKUGZkbFBmWjktVmhZek5WQXlZeEdyVlNONmx4Qjhlbl9zUEhoSDlrOVdDekxxeV9sTzlzbXhCTHAtbW9iUU1JWDA3cjhEZzIyOUZ0Sk9xeFpPOUJPQXZ3aWRlbXZ5YXJGT0ttbWRzRTl3PT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01ZGVkMWU1Ni1hNzZjLTI4Y2MtNmUyOC1iYTRjNDk0NDg2NjQiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=UC8ZeN1HxfbZiZFnnTgvPB%2fjCDg%3d&sessionId=5f3ab594-51dd-3f23-e71d-d57d2eb8600e:9fd21e4b-d6f2-e571-6a38-cfb6e7d5f91d&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2F0cC10b3VyLTEwMDAtLTIwMjItLzEyNjIwMDIvcGxheWVyP2xpbmVhcklkPTEwMDE0NTU1NiZpc0xpdmU9dHJ1ZQ==
-#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",817 beIN Sports 2 HD (Backup)
-https://linear02-playback.sooka.my/CH3/masterCH3.mpd
-
-#EXTINF:-1 tvg-id="beINSports" group-title="🎾🎮 | Sports/Gaming" ch-number="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",818 beIN Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
-
-#EXTINF:-1 tvg-id="beINSports3" group-title="🎾🎮 | Sports/Gaming" ch-number="819" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bein-sports-3-hero.png/revision/latest?cb=20170624060242",819 beIN Sports 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Eurosport" group-title="🎾🎮 | Sports/Gaming" ch-number="820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2100
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Eurosport" group-title="🎾🎮 | Sports/Gaming" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",820 Eurosport HD (Backup)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzIyNTM2MyIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJhNWExYTU5ZF8xMGZmXzRiNGRfOGM0YV8yMWVhYWI0MjNkOGQiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=I2tQVS0UwKcfOIBmLLpAb%2fWgzhA%3d&sessionId=b2650998-921a-4c6f-4806-94fea37a8c32:98b26451-8cd0-df19-be93-1464204905cd&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2RhcnRzLS13b3JsZC1kYXJ0cy1mcmltbGV5LWdyZWVuLzEwOTQ1MTEvcGxheWVyP2xpbmVhcklkPTEwMDE0NjQyNiZpc0xpdmU9dHJ1ZQ==
-https://linear03-playback.sooka.my/CH2/masterCH2.mpd
-
-#EXTINF:-1 tvg-id="WWENetwork" group-title="🎾🎮 | Sports/Gaming" ch-number="821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",821 WWE Network HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
-
-#EXTINF:-1 tvg-id="GolfChannel" group-title="🎾🎮 | Sports/Gaming" ch-number="822" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",822 Golf Channel HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1003
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
-
-#EXTINF:-1 tvg-id="PremierSports" group-title="🎾🎮 | Sports/Gaming" ch-number="823" tvg-logo="https://aqfadtv.astradamy.com/logos/PremierSports2021.png",823 Premier Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroCricket" group-title="🎾🎮 | Sports/Gaming" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",824 Astro Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2504
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
