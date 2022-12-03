@@ -1,60 +1,241 @@
 #EXTM3U
-#EXTM3U x-tvg-url=https://raw.githubusercontent.com/Cryptologism/epg/main/epg.xml refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml,https://raw.githubusercontent.com/Cryptologism/epg/main/epg.xml,https://weareblahs.github.io/epg/unifitv.xml,https://raw.githubusercontent.com/iptv-org/epg/master/sites/bein.com/bein.com_qa.channels.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://weareblahs.github.io/epg/rtmklik.xml,https://macan.tv/xmltv.php?username=epg&password=epg,https://dukun.masuk.id/epg/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,http://iptvthai.my.to/guide.xml,http://103.71.173.240/xmltv.xml,http://epg.streamstv.me/epg/guide-india.xml.gz,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://dukun.masuk.id/epg/dukun.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,http://gg.gg/epgvn03,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinSports.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/il/mako.co.il.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://antifriztv.com/xmltv.xml.gz,http://epg.fox-tv.fun/1.xmltv,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://dukun.masuk.id/epg/magticom.ge.epg.xml,https://dukun.masuk.id/epg/ziggogo.tv.epg.xml,https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml,https://iptv-org.github.io/epg/guides/th.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://dukun.masuk.id/epg/guidatv.sky.it.epg.xml,https://dukun.masuk.id/epg/ziggogo.tv.epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml" refresh="3600"
+
 #EXTINF:-1 tvg-id="CHN" group-title="[-CreatorInfo-]" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / Tester Version !!
 https://www.dropbox.com/s/yok1s8nyf2k7y1j/Intro%26Info%20VodII.mp4?dl=0&raw=true
 
+
+#######################################################################################################################
+CREDIT TO THE ORIGINAL OWNING /  DO NOT FUCKING REMOVE THE CREDIT OR AT LEAST CREDIT FOR THE SAKE OF OUR RECONSTRUCTION CODING TIME
 #######################################################################################################################
 
+
+#######################################################################################################################
 #EXTGRP: 🏆 | Promote-Your-Ads-Here
 #EXTINF:-1 group-title="🏆 | Promote-Your-Ads-Here" ch-number="1" tvg-logo="https://i.ibb.co/bPY6H6T/ggggggggggggg.jpg",CreatedBySirCrypto / Tester Version !!
 https://www.dropbox.com/s/iqykgp634unepbn/DigimonIklan.mp4?dl=0&raw=true
-#EXTINF:-1 tvg-id="GoShopBARU" group-title="🏆 | Promote-Your-Ads-Here" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
+#######################################################################################################################
+
+
+#######################################################################################################################
+#EXTGRP: 🏁 | Malaysia-Channel
+#EXTINF:-1 tvg-id="TV1" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+# https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV2" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+# https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 🏁 | Malaysia-Channel" ch-number="103" tvg-id="103" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTVLCOPT:http-referer=https://www.dailymotion.com
+http://51.79.82.208:16003
+# https://live.astradamy.com/tv3/index.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="Drama Sangat" 🏁 | Malaysia-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest?cb=20191016084737",Drama Sangat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.dailymotion.com
+# https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0q1PS0M5_V4lWerwAXWBDWIOouzXpAeZh1506HpnHONY)/dm/3/x6zvnex/s/live-3.m3u8
+# https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" 🏁 | Malaysia-Channel" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
+#EXTINF:-1 tvg-id="147" tvg-name="147 NTV7" 🏁 | Malaysia-Channel" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png",DidikTV KPM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+# http://23.237.10.66:16405
+
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+# http://51.79.82.208:16005
+
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/911
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
+
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+# http://51.79.82.208:16006
+
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png",TV9 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/705
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" 🏁 | Malaysia-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",Okey ⁽ˢᵉʳᵛᵉʳ ¹⁾
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+#EXTINF:-1 tvg-id="OKEY" ch-number="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" 🏁 | Malaysia-Channel",Okey ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" 🏁 | Malaysia-Channel",TV Alhijrah ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1113
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113/
+#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" 🏁 | Malaysia-Channel",TV Alhijrah 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" 🏁 | Malaysia-Channel",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb-aneka-title.png" 🏁 | Malaysia-Channel", RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="114" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" 🏁 | Malaysia-Channel",TV Ikim 
+#https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CHN" ch-number="" tvg-logo="https://1.bp.blogspot.com/-7VCmfo92Zls/YTWfhHNpbGI/AAAAAAAAiEM/WBDJq1lf2FABp1IqDlqnU7BnN-RlNevpQCLcBGAsYHQ/s16000/SUKE_TV_Logo.png" 🏁 | Malaysia-Channel",Suke TV
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" 🏁 | Malaysia-Channel" tvg-logo="https://iili.io/1NqAMl.png",Awesome TV 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
+
+#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" radio="true" 🏁 | Malaysia-Channel",Selangor TV
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+
+#EXTINF:-1 tvg-id="122" ch-number="122" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png",TVS Sarawak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5021
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+#https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 tvg-id="118" 🏁 | Malaysia-Channel" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",Hypp Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1  tvg-id="116" 🏁 | Malaysia-Channel" tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",Hypp Sensasi
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 tvg-id="120" 🏁 | Malaysia-Channel" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",Hypp Degup
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTRkNjZkMjgtOTY5Mi0zY2JiLTkxOTktNDkzMmE3MjAxYjQy
+#EXTINF:-1 tvg-id="121" 🏁 | Malaysia-Channel" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png", Siar
+#https://aqfadtv.xyz/live/unifitv/siar/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 tvg-id="128" 🏁 | Malaysia-Channel" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",Hypp Dunia Sinema
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
+#EXTINF:-1 🏁 | Malaysia-Channel" tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
+# https://movierakyat.link/m8qjxq.mpd
+
+#EXTINF:-1 🏁 | Malaysia-Channel" tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://aqfadtv.xyz/live/ria/index.mpd
+
+#EXTINF:-1 🏁 | Malaysia-Channel" tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria ⁽ˢᵉʳᵛᵉʳ ³⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+https://stream.zeehanzgadget.com/ria.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png",Astro Prima 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="106" ch-number="AstroOasis" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" 🏁 | Malaysia-Channel",Astro Oasis 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+# https://stream.zeehanzgadget.com/oasis.mpd
+# https://tv.kpsvpn.com/kpsboyoasis.mpd
+
+#EXTINF:-1 tvg-id="107" 🏁 | Malaysia-Channel" ch-number="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://aqfadtv.xyz/live/warna/index.mpd
+
+#EXTINF:-1 tvg-id="107" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://stream.zeehanzgadget.com/warna
+
+#EXTINF:-1 tvg-id="107" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna ⁽ˢᵉʳᵛᵉʳ ³⁾
+http://51.79.82.208:16010
+
+#EXTINF:-1 tvg-id="108" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2700
+https://aqfadtv.xyz/live/citra/index.mpd
+
+#EXTINF:-1 tvg-id="108" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://stream.zeehanzgadget.com/citra
+# https://movierakyat.link/ePggbR.mpd
+
+#EXTINF:-1 tvg-id="108" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png",Astro Citra ⁽ˢᵉʳᵛᵉʳ ³⁾
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
+
+#EXTINF:-1 tvg-id="RTMK08" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDN_bckg.png" 🏁 | Malaysia-Channel",Parlimen Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="RTMK07" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" 🏁 | Malaysia-Channel",Parlimen Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="GoShopBAARU" 🏁 | Malaysia-Channel" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2508
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
-#EXTINF:-1 tvg-id="GoShopRUMA" ch-number="118" group-title="🏆 | Promote-Your-Ads-Here" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
+
+#EXTINF:-1 tvg-id="118" 🏁 | Malaysia-Channel" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",Go Shop RUUMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2501
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
-#EXTINF:-1 tvg-id="GoShopGAYA" ch-number="120" group-title="🏆 | Promote-Your-Ads-Here" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",120 Go Shop GAAYA
+
+#EXTINF:-1 tvg-id="120" 🏁 | Malaysia-Channel" tvg-logo="https://user-images.githubusercontent.com/85995579/128458098-5b4bb7bc-5cab-423f-b4d7-ae4376f43590.png",Go Shop GAAYA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
 
-#######################################################################################################################
-
-#EXTGRP: 🎶 | Music-Channel
-#EXTINF:-1 group-title="🎶 | Music-Channel" tvg-id="CHN",Lagu Hits Indonesian Tahun 2000an Terpopular
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670019284/ei/dCSKY4icCZ2C1d8Pv6yM4Aw/ip/175.145.64.161/id/icHcgfstQIM.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/my/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKVk0aFWrpBi1FCdDuHTiJxIpLVKswS9Gj_oK5HldeWbAiEAi4WumEfPCjjGEBU3C1uksnU6KraXL-s3IR0PsmI3RNs%3D/file/index.m3u8
-#EXTINF:-1 group-title="🎶 | Music-Channel" tvg-id="CHN",Greatest Hits 90s English 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669250577/ei/sWl-Y7K6DomG3LUP-YyH0AU/ip/175.144.164.187/id/mk73cXTBeLc.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJcmatAj5H4PTYVMsmdudIUYYpTZcPEcXGyz8Cxeec5eAiAYrRmcZ6uDnuqWRZuvU-IjMHN0Em1i-ioCumoV9vJP3Q%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="🎶 | Music-Channel" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",718 MTV Asia HD
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #######################################################################################################################
-
-#EXTGRP: 💃 | Relaxing-Channel
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Beaches Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Mountains Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Tropics Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Lakes Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Animals Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Forests Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Sunsets Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Aurora Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="💃 | Relaxing-Channel",Nature
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-
-#################################################################################################################################
-
-<noscript>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6fc5f459b9be49fc',m:'SpbH5OyFmOgeF7arEiv4PGYSyolg3rPwpl0RDHmezrE-1650039059-0-Aci1lKiDfYx/FZkM6tFb+mzCcNPXlxm8nzZ56LrlDQr8BshLzOE71ihlL9eXatTBgBznaS3674G86yV9QR6cHX70cICyErq9v1CrI+cfPXtErRvuNHA6h8o5xLH9Qi3lGA==',s:[0x60a64ed4af,0x954e9c5a5c],u:'/cdn-cgi/challenge-platform/h/b'}})();</script>
