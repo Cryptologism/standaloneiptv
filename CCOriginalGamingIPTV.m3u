@@ -1232,6 +1232,10 @@ https://bit.ly/infoinfo00000
 https://bit.ly/infoinfo00000
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
+
+
+
+
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 #EXTGRP: 🏁 | Malaysia-Channel
 #EXTINF:-1 tvg-id="TV1" group-title=" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
@@ -1451,6 +1455,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -1644,9 +1652,780 @@ https://live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="INews.id" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png" group-title=" 🏁 | Indonesia-Channel", Inews
 https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+#EXTGRP: 🏁 | Indian-Channel
+#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title=" 🏁 | Indian-Channel",INFO PENGGUNAAN DNS CHANGER
+https://tinyurl.com/Guna-DNS-Changer
+
+
+#EXTINF:-1 tvg-id="201" ch-number="201" group-title=" 🏁 | Indian-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",Astro Vaanavil ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+
+#EXTINF:-1 tvg-id="201" tvg-name="Astro Vaanavil HD" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/5_144.png",Astro Vaanavil ⁽ˢᵉʳᵛᵉʳ ²⁾
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title=" 🏁 | Indian-Channel" tvg-logo="https://iili.io/1NuZbI.png",Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ¹⁾
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
+
+#EXTINF:-1 tvg-id="202" ch-number="202" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2105
+https://aqfadtv.xyz/live/vinmeen/index.mpd
+
+#EXTINF:-1 tvg-id="203" ch-number="203" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/61_144.png",Thaai vaazthu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/202
+#http://iptv12k.com:35461/80201051217/424567/1827
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
+#https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
+#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title=" 🏁 | Indian-Channel",Box Office Thangathirai
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
+#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title=" 🏁 | Indian-Channel",Box Office Thangathirai
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1007
+#EXTINF:-1 tvg-id="251" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title=" 🏁 | Indian-Channel",Box Office Bollyone
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-ID="116" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/colors.png" group-title=" 🏁 | Indian-Channel",Colors
+https://cdn-01.toffeelive.com/origin-03/live-origin/smil:colors.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2611
+#EXTINF:-1 tvg-id="ColorsHD" ch-number="ColorsHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title=" 🏁 | Indian-Channel",Colors Hindi
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
+#EXTINF:-1 tvg-id="222" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png" group-title=" 🏁 | Indian-Channel",Colors Tamil
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
+
+#EXTINF:-1 tvg-id="333" group-title=" 🏁 | Indian-Channel" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607255101998u.png",Colors Cineplex
+http://teeveetv.one:2052/syntax/MKlaiuUcj2/753963
+
+#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/77c35a2586cb05de8134d259139e67a1.png" group-title=" 🏁 | Indian-Channel",Colors Gujarati
+http://teeveetv.one:2052/syntax/MKlaiuUcj2/753962
+
+#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/783cbfb3051d12d7992f82ae4f7c91fa.png" group-title=" 🏁 | Indian-Channel",Colors Kannada
+#http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/192203
+
+#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="COLORS Marathi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/744bdecf60935c49e1fac6c0feabcc6e.png" group-title=" 🏁 | Indian-Channel",Colors Marathi
+#http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/82642
+
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in" tvg-name="Colors Rishtey Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/57698714035590a5681e1ddf715be5f9.png" group-title=" 🏁 | Indian-Channel",Colors Rishtey
+http://teeveetv.one:2052/syntax/MKlaiuUcj2/753965
+
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.ibb.co/hZ37R7j/Desain-tanpa-judul-2022-07-19-T144552-875-modified.png" group-title=" 🏁 | Indian-Channel",&Picture
+http://watchindia.net:8880/live/vvv/vvv/783.ts 
+
+#EXTINF:-1 tvg-id="AndxplorHD.in" tvg-logo="https://i.ibb.co/HYQ4CkZ/Desain-tanpa-judul-2022-07-19-T144628-095-modified.png" group-title=" 🏁 | Indian-Channel",&xplor
+http://watchindia.net:8880/live/vvv/vvv/2204.ts
+
+#EXTINF:-1 tvg-id="211" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",Sun TV  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2310
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
+
+#EXTINF:-1 tvg-id="212" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",Sun Music 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5011
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
+
+#EXTINF:-1 tvg-id="212" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png", Sun News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5087
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+
+#EXTINF:-1 tvg-id="212" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png", Sun Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5089
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
+
+#EXTINF:-1 tvg-id="212" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png", Ktv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5088
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
+
+#EXTINF:-1 tvg-id="213" ch-number="213" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",Chutti TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19e79967a0f1ead8bb7bc453bbc3d110:592722a6819d1226921e68d689262497
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1110/default_primary.mpd
+
+#EXTINF:-1 tvg-id="214" ch-number="214" group-title=" 🏁 | Indian-Channel" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",Adithya 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/915
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_primary.mpd
+
+#EXTINF:-1 tvg-id="223" ch-number="223" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",Zee Tamil 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2311
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="ZeeTV.MACAN" tvg-name="Zee TV India" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeetv.png" group-title=" 🏁 | Indian-Channel",Zee TV
+https://cdn-01.toffeelive.com/origin-01/live-origin/smil:zee_tv_hd.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="ZeeCinemaAsia.in" tvg-name="Zee Cinema Asia" tvg-logo="https://i.ibb.co/vBxX1Xn/Zeecinemahd2011.png" group-title=" 🏁 | Indian-Channel", Zee Cinema 
+http://teeveetv.one:2052/syntax/MKlaiuUcj2/998833
+# http://tvs1.aynaott.com/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+# http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=d1243556aa1b35eefa1d88a066c0db2cc9318e74-99c2917f032c39728e02fd0015e0d535-1662839931-1662829131
+# https://cdn-01.toffeelive.com/origin-09/live-origin/smil:zee_cinema_hd.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="221" ch-number="221" group-title=" 🏁 | Indian-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",Star Vijay
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2707
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+
+#EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="Star Gold HD India" tvg-logo="https://i.ibb.co/ngntF9d/Star-Gold-2011.png" group-title=" 🏁 | Indian-Channel",Star Gold
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1070
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title=" 🏁 | Indian-Channel",BBO Classic Movies
+https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
+
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title=" 🏁 | Indian-Channel",Box office Bollywood
+https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
+#EXTINF:0, group-title=" 🏁 | Indian-Channel" tvg-logo="http://www.tamilvision.tv/Images/logo.png",Tamil Vision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png", Adhavan TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 Tamil
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngU3LWhh8SErFHPH0yKtfsCt4cYrq-EbNnGjICWLA=s88-c-k-c0x00ffffff-no-rj",Tirumalai TV KARUR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="https://kccl.tv/sites/default/files/mksix.jpg",MK Six
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg",MK Tunes
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="http://mktv.akst.in/wp-content/uploads/2018/10/mk-tv.png",MK TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title=" 🏁 | Indian-Channel",EET TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:0 group-title=" 🏁 | Indian-Channel" tvg-logo="http://www.worldtamil.tv/img/logo.png", WORLD TAMIL TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+
+#EXTINF:0, group-title=" 🏁 | Indian-Channel" tvg-logo="http://haritv.com/images/logo.png",HARI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title=" 🏁 | Indian-Channel",Santhora Short Flim
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+
+#EXTINF:0, group-title=" 🏁 | Indian-Channel" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
+#EXTINF:0, group-title=" 🏁 | Indian-Channel" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title=" 🏁 | Indian-Channel",Akaram Kidz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title=" 🏁 | Indian-Channel",Kalaignar TV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title=" 🏁 | Indian-Channel",Raj TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title=" 🏁 | Indian-Channel",Thanthi TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/mNX-Fl-1cgwBzuF8m8YFcaF7GGNUQAl5gLtH7eJNrYSZHYnw1GIVgTXSQT5K7OEM_1aE=s180" group-title=" 🏁 | Indian-Channel",Yupp TV Tamil Classics 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title=" 🏁 | Indian-Channel",Jay TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://livematrix.in:1935/live/jay/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title=" 🏁 | Indian-Channel",Velicham TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:0, group-title=" 🏁 | Indian-Channel" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:0, group-title=" 🏁 | Indian-Channel" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+
+#EXTINF:0, group-title=" 🏁 | Indian-Channel" tvg-logo="http://7startv.in/astv.png",Aasirvadham TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+
+#EXTINF:1 tvg-id="B4UMoviesIndia.in" tvg-name="B4U Movies India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNStmeIQpe4pTxs94MTXed-SUZS1BdLw_2kQ&usqp=CAU" group-title=" 🏁 | Indian-Channel",B4U Movie 
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svZGRrs/Sony-modified.png" group-title=" 🏁 | Indian-Channel",Sony TV
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_entertainmnt_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-ID="SonySABIndia.in" tvg-name="Sony SAB TV India" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/sonysab.png" group-title=" 🏁 | Indian-Channel",Sony Sab
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-ID="SonyMax.in" tvg-name="Sony Max India" tvg-logo="https://images.toffeelive.com/images/program/641/logo/115x115/mobile_logo_602468001571288709.png" group-title=" 🏁 | Indian-Channel",Sony Max
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:set_max_hd.smil/manifest.mpd
+# http://208.86.19.13:81/706.stream/index.m3u8
+
+#EXTINF:-1 tvg-ID="BflixMovies.in" tvg-name="Bflix Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title=" 🏁 | Indian-Channel",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="UtsavGold.uk" tvg-name="Star Utsav Movies" tvg-logo="https://i.ibb.co/jkwqqzW/download.jpg" group-title=" 🏁 | Indian-Channel",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="UtsavPlus.uk" tvg-name="Star Utsav" tvg-logo="https://i.ibb.co/DG5Q3vk/Star-plus-2016.png" group-title=" 🏁 | Indian-Channel",Utsav Plus
+http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+#EXTGRP: 🏁 | Chinese-Channel
+#EXTINF:-1 tvg-id="CHN" tvg-name="" tvg-logo="https://i.ibb.co/NL5t4PZ/photo1662042694.jpg" group-title=" 🏁 | Chinese-Channel",INFO PENGGUNAAN DNS CHANGER
+https://tinyurl.com/Guna-DNS-Changer
+
+
+
+#EXTINF:-1 tvg-id="303" ch-number="303" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",Go Shop 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1005
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
+# https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
+#EXTINF:-1 tvg-id="300" ch-number="IQIYI" tvg-logo="https://github.com/angahjee1994/logo/blob/master/iqiyi.png?raw=true" group-title=" 🏁 | Chinese-Channel",iQIYI 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+# https://stream.zeehanzgadget.com/iqiyi.mpd
+
+#EXTINF:-1 tvg-id="306" ch-number="AstroAEC" tvg-logo="https://i.ibb.co/ZNGPbCN/Astro-AEC.png" group-title=" 🏁 | Chinese-Channel",Astro AEC ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
+https://aqfadtv.xyz/live/aec/index.mpd
+# https://stream.zeehanzgadget.com/aec
+
+#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://iili.io/1NBT5F.png",Astro AEC ⁽ˢᵉʳᵛᵉʳ ²⁾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb764610dca2eaf4a4ea4fa216af8110:6a9fca876b7b999b1a7b414a0bd44b4e
+http://51.79.82.208:16021
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2706
+#EXTINF:-1 tvg-id="AstroAOD" ch-number="AstroAOD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title=" 🏁 | Chinese-Channel",Astro AOD   
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+
+#EXTINF:-1 tvg-id="352" ch-number="352" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=keyid=https://ck-dash-mpd.astradamy.com/dash-ck/linear/700
+http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroAOD353" ch-number="353" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/905
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/905/default_primary.mpd
+
+#EXTINF:-1 tvg-id="354" ch-number="354" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/212
+http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroAOD355" ch-number="355" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/307
+# http://linearjitp-playback.astro.com.my/dash-wv/linear/307/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2711
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="AstroXiaoTaiYang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title=" 🏁 | Chinese-Channel",Astro Xiao Tai Yang  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
+#EXTINF:-1 tvg-id="307" ch-number="AstroShuangXing" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title=" 🏁 | Chinese-Channel",Astro Shuang Xing 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
+#EXTINF:-1 tvg-id="308" ch-number="AstroQuanJiaHD" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",Astro Quan Jia 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+
+#EXTINF:-1 tvg-id="333" ch-number="333" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2308
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",Astro Hua Hee Dai 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
+#http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1725
+#http://iptv12k.com:35461/80201051217/424567/707
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5017
+#EXTINF:-1 tvg-id="316" ch-number="CTIAsia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title=" 🏁 | Chinese-Channel",CTI Asia 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/TVB_logo.svg/revision/latest/scale-to-width-down/250?cb=20220217023951",TVB Fc
+https://live.astradamy.com/tvbfc/index.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/B55FD111-11A0-47A5-8E29-B160EC5C26DA.png/revision/latest/scale-to-width-down/184?cb=20200416054524",TVB J2
+https://live.astradamy.com/tvbj2/index.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png/revision/latest/scale-to-width-down/299?cb=20171102192504",TVB Pearl
+https://live.astradamy.com/tvbpearl/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
+#EXTINF:-1 tvg-id="305" ch-number="TVBClassic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title=" 🏁 | Chinese-Channel",TVB Classic  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2600
+#EXTINF:-1 tvg-id="310" ch-number="TVBJade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title=" 🏁 | Chinese-Channel",TVB Jade  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5015
+#EXTINF:-1 tvg-id="317" ch-number="TVBEntertainmentNews" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-title=" 🏁 | Chinese-Channel",TVB Entertainment News 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/401
+#EXTINF:-1 tvg-id="319" ch-number="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title=" 🏁 | Chinese-Channel",TVB Xing He 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/402
+#EXTINF:-1 tvg-id="320" ch-number="TVBSAsia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title=" 🏁 | Chinese-Channel",TVBS Asia 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5008
+#EXTINF:-1 tvg-id="323" ch-number="TVBSNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png" group-title=" 🏁 | Chinese-Channel",TVBS News 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/403
+#EXTINF:-1 tvg-id="335" ch-number="CCTV4" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-title=" 🏁 | Chinese-Channel",CCTV4 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
+
+#EXTINF:-1 tvg-id="325" ch-number="325" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",Phoenix Chinese Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/400
+http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
+
+#EXTINF:-1 tvg-id="326" ch-number="326" group-title=" 🏁 | Chinese-Channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",Phoenix Info News 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5009
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
+
+#EXTINF:-1 tvg-id="CHN" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title=" 🏁 | Chinese-Channel",Lotus Macau
+http://anren.live/HK/BiIOU11uLA.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/RTHK.png/revision/latest/scale-to-width-down/210?cb=20140629082053",RTHK 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/RTHK.png/revision/latest/scale-to-width-down/210?cb=20140629082053",RTHK 33
+https://live.astradamy.com/hk33/index.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/RTHK.png/revision/latest/scale-to-width-down/210?cb=20140629082053",RTHK 76
+https://live.astradamy.com/hk76/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Viu_logo.svg/1200px-Viu_logo.svg.png" tvg-id="CHN" ch-number="CHN" group-title=" 🏁 | Chinese-Channel",Viu TV
+#https://cdn.hkdtmb.com/hls/99/index.m3u8
+https://live.astradamy.com/viutv/index.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/200px-ViuTVsix-logo.svg.png",Viu TV 6
+https://live.astradamy.com/viutv6/index.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://daai.tv/images/logo.png",Daai TV 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-id="CHN" ch-number="CHN" tvg-logo="https://daai.tv/images/logo.png",Daai TV 2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+https://skyios.sky4k.top/DAT_002/playlist.m3u8?auth=Astra&Time=0422022
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",亞洲旅遊台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",中天美食旅遊
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",EYETV旅游
+http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20256
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",鏡電視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",東森新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",華視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",民視新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",三立財經新聞iNEWS
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",TVBS新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",東森財經新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",中視新聞
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",中天新聞台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",國家地理頻道
+http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",EYE TV旅遊台
+http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",動物星球
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",國家地理野生頻道
+http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",探索頻道
+http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",探索頻道
+http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",東森幼幼
+http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",爱尔达生活旅游
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",MOMO亲子
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",中台灣生活網
+http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",幸福空间居家台
+https://git.io/JgYYF
+
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel",Momo綜合台
+http://61.219.170.95:18576/http/192.168.1.9:8081/hls/76/818/momo_max.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", Jiangsu TV
+https://live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-logo="https://i.imgur.com/rciggYQ.jpg", Hunan TV
+https://live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-logo="http://www.masmiri.50webs.com/page2/Satelite%20TV/Dragon%20tv.png", Shanghai Dragon TV
+https://live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg",Xingkong TV
+https://live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title=" 🏁 | Chinese-Channel" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png", Anhui TV
+https://live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title=" 🏁 | Chinese-Channel", Macau TV
+http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title=" 🏁 | Chinese-Channel", Hainan TV
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls 
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title=" 🏁 | Chinese-Channel",Zhejiang  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing_Television_Logo_2009.png/800px-Beijing_Television_Logo_2009.png" group-title=" 🏁 | Chinese-Channel",Beijing  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225673/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title=" 🏁 | Chinese-Channel",Tianjin  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxitv.jpg" group-title=" 🏁 | Chinese-Channel",Jiangxi  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/sdgg.jpg" group-title=" 🏁 | Chinese-Channel",Shandong  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg" group-title=" 🏁 | Chinese-Channel",Guangdong  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9d/Doc_Channel.jpg/220px-Doc_Channel.jpg" group-title=" 🏁 | Chinese-Channel",Shanghai doc
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" group-title=" 🏁 | Chinese-Channel",Shenzhen  
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225741/index.m3u8
+  
+#EXTINF:-1 tvg-id="CCTV1.cn" group-title=" 🏁 | Chinese-Channel",CCTV 1 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV2.cn" group-title=" 🏁 | Chinese-Channel",CCTV 2 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8 
+
+#EXTINF:-1 tvg-id="CCTV3.cn" group-title=" 🏁 | Chinese-Channel",CCTV 3 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8 
+
+#EXTINF:-1 tvg-id="CCTV4.cn" group-title=" 🏁 | Chinese-Channel",CCTV 4 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5.cn" group-title=" 🏁 | Chinese-Channel",CCTV 5 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" group-title=" 🏁 | Chinese-Channel",CCTV 5＋ 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6.cn" group-title=" 🏁 | Chinese-Channel",CCTV 6 
+http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV7.cn" group-title=" 🏁 | Chinese-Channel",CCTV 7 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8.cn" group-title=" 🏁 | Chinese-Channel",CCTV 8 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9.cn" group-title=" 🏁 | Chinese-Channel",CCTV 9 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10.cn" group-title=" 🏁 | Chinese-Channel",CCTV 10 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8 
+
+#EXTINF:-1 tvg-id="CCTV11.cn" group-title=" 🏁 | Chinese-Channel",CCTV 11
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12.cn" group-title=" 🏁 | Chinese-Channel",CCTV 12 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13.cn" group-title=" 🏁 | Chinese-Channel",CCTV 13 
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14.cn" group-title=" 🏁 | Chinese-Channel",CCTV 14
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8 
+
+#EXTINF:-1 tvg-id="CCTV15.cn" group-title=" 🏁 | Chinese-Channel",CCTV 15 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8 
+
+#EXTINF:-1 tvg-id="CCTV16.cn" group-title=" 🏁 | Chinese-Channel",CCTV 16
+http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17.cn" group-title=" 🏁 | Chinese-Channel",CCTV 17 
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8 
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+#EXTGRP: 🏁 | Singapore-Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="Channel5.sg" tvg-chno="997" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5 
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="Channel8.sg" tvg-chno="998" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="ChannelU.sg" tvg-chno="999" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="Suria.sg" tvg-chno="1000" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="Vasantham.sg" tvg-chno="1001" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="oktolidays.sg" tvg-NAME="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png",Oktolidays
+#https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="1004" tvg-chno="1004" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%273748542%27&EntityType=%27Item%27&EntityId=%27245216%27&Width=336&Height=189&ImageUrl=%273748542.jpg%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27_en,all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Global Citizen
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="meWATCHLIVE1.sg" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1 
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 group-title=" 🏁 | Singapore-Channel" tvg-id="meWATCHLIVE2.sg" tvg-chno="1007" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?format='jpg'&Quality=85&ImageId='3350553'&EntityType='Item'&EntityId='229212'&Width=237&Height=237&ImageUrl='3350553.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 2
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 <noscript>
 <script type="text/javascript">(function(){window['__CF$cv$params']={r:'71e279c4799f4ca7',m:'rRvjkdTqUzsA72dNMgVPBdmi8eFUUm0TaezDWTdg6Ss-1655706834-0-AWCILmLNi01muIBGoiW/eIgjUgIiA0mlVcDCBeWOiS6HjYY4b9h5WfDUj5k8DIkmGvdWqyH0Sgii5MN1+aXR22yBvl/Il2e+D2St8TU4HiyluIq9TSx5prk+N9jl8tt+hw==',s:[0x373f4008d3,0x39f162e0f8],u:'/cdn-cgi/challenge-platform/h/g'}})();</script>
-
