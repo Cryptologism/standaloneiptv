@@ -18,26 +18,26 @@ https://www.dropbox.com/s/iqykgp634unepbn/DigimonIklan.mp4?dl=0&raw=true
 
 
 #######################################################################################################################
-#EXTGRP: 🏁 |  🏁 | Malaysia-Channel
-#EXTINF:-1 tvg-id="TV1" group-title=" 🏁 |  🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTGRP: 🏁 | Malaysia-Channel
+#EXTINF:-1 tvg-id="TV1" group-title=" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 # https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title=" 🏁 |  🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title=" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV2" group-title=" 🏁 |  🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
+#EXTINF:-1 tvg-id="TV2" group-title=" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ¹⁾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 # https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title=" 🏁 |  🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ²⁾
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title=" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 ⁽ˢᵉʳᵛᵉʳ ²⁾
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title=" 🏁 |  🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾ 
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title=" 🏁 | Malaysia-Channel" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3 ⁽ˢᵉʳᵛᵉʳ ¹⁾ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
