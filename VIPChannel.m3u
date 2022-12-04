@@ -3500,7 +3500,97 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
+#EXTGRP: 📻 | Radio-✨✨
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/3G-FM-Radio-100x47.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",3G FM Radio
+http://167.114.131.90:5232/
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711300/ab5f84bbc8de6ec5c957f33db0a1ff2f/938now-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",938 Now Radio
+http://22403.live.streamtheworld.com:80/938NOWAAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",AI FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",AXR Singapore
+https://22283.live.streamtheworld.com:443/AXR_SINGAPOREAAC.aac
+#EXTINF:-1 tvg-logo="https://www.bfm.my/themes/bfmmy/assets/images/bfm-logo.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",BFM 89.9
+http://22283.live.streamtheworld.com/BFMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711292/c1d17b4ea5804a7465b72e2662852a6d/capital-958-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Capital 958 Radio
+http://22403.live.streamtheworld.com:80/CAPITAL958FMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Class 95 Radio
+http://22403.live.streamtheworld.com:80/CLASS95AAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",CNA 938 Live Singapore
+http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",CNA938
+http://22893.live.streamtheworld.com:80/938NOW_PREM/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/era/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Era FM
+http://astro2.rastream.com/era
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Gold 905 Radio
+http://19183.live.streamtheworld.com:80/GOLD905AAC.aac
+#EXTINF:-1 tvg-logo="http://media2.fishtank.my/app_themes/hitz/ico/hitz.ico" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hits FM Sarawak
+http://astro1.rastream.com/hitz
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/hitz/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hitz FM
+http://astro2.rastream.com/hitz
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/88298.v1.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hitz.FM Singapore
+http://91.121.121.25:8260/stream
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/11/Hot-FM-91.3.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hot FM 91.3
+https://22283.live.streamtheworld.com/ONE_FM_913_SC
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Jazz Lounge
+http://eu8.fastcast4u.com:5068/;
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Jei FM Klang Tamil Radio
+https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Jia 883 Radio
+http://23683.live.streamtheworld.com:80/883JIAAAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",KISS92
+https://22253.live.streamtheworld.com/KISS_92AAC.aac
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/litefm/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Lite
+http://astro1.rastream.com/lite?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Alite&playerid=Lite_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTY0NzEsImV4cCI6MTUzNzgwMjg3MX0.pSjOU07bdGLYSH3JlfgMBR7qdU7QcAlsTPPwQB3_c3s
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Love 972 Radio
+http://22403.live.streamtheworld.com:80/LOVE972FMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Mediacorp 987 Radio
+http://14033.live.streamtheworld.com:80/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/my/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",MyFM
+http://astro1.rastream.com/myfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amyfm&playerid=MY%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTA2ODc4OTM5MzIsImV4cCI6MTQ5MDc3NDI5MzkzMn0.WOCZn2kJuoHhhdoq7wyFgn-dJC2teH3_RPxZuSwjCVk&lan=%5B%22zh%22%5D&setLanguage=true
+#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro%2F32680c65-0060-4337-bc51-092683613296.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",MELODY
+http://astro3.rastream.com/melody?awparams=companionads:true;tags:radioactive;stationid:amp-melody&playerid=MELODY_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTU1NjAsImV4cCI6MTUzNzgwMTk2MH0.Y5rRnKwPpBiaFL--nplqrezUmaHLJoHDZnJsG99o10o
+#EXTINF:-1 tvg-logo="http://www.moneyfm893.sg//wp-content/assets/2/img/moneyfm893.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Money 893 Radio
+http://22283.live.streamtheworld.com:80/MONEY_893AAC.aac
+#EXTINF:-1 tvg-logo="https://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="📻 | Radio-✨✨",NAGA FM - SINGAPORE
+http://songs.nagafm.com:8006/stream.mp3;
+#EXTINF:-1 tvg-logo="http://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="📻 | Radio-✨✨",Naga FM Online - Singapore
+http://songs.nagafm.com:8006/
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli968fm-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Oli 968 Radio
+http://22893.live.streamtheworld.com:80/OLI968FMAAC.aac
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",One FM
+http://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",ONE FM
+http://23683.live.streamtheworld.com:80/ONE_FM_913AAC.aac?dist=radiosingaporeapp
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",ONE FM 91.3 SPH AAC
+http://22283.live.streamtheworld.com:80/ONE_FM_913AAC.aac
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/80869.v3.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Orion Station
+http://188.165.192.5:8528/;
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/15268.v3.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Radio Melody with Brother Bjorn
+http://ssl.geckohost.nz:9191/autodj
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria897fm-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Ria 897 Radio
+http://23253.live.streamtheworld.com:80/RIA897FMAAC.aac
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/radiorosak/RRStudios.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",RADIOROSAK
+http://51.15.152.81:9114/stream
+#EXTINF:-1 tvg-logo="http://www.963haofm.sg//wp-content/assets/1/img/fm963.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",SPH 963 Radio
+http://22283.live.streamtheworld.com:80/HAO_963AAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony924-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Symphony 924 Radio
+http://22893.live.streamtheworld.com:80/SYMPHONY924AAC.aac
+#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro/e4bfb847-9b40-4d4f-9378-f6b9a30805ad.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Sinar FM
+http://astro2.rastream.com/sinar
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/UFM_LOGO.jpg/220px-UFM_LOGO.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",UFM 100.3 Radio
+http://22253.live.streamtheworld.com:80/UFM_1003AAC.aac
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Warna 942 Radio
+http://22903.live.streamtheworld.com:80/WARNA942FMAAC.aac
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/5/92895.v5.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",XRadio
+http://xradio.zone:9420/stream
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Yes 933
+https://22903.live.streamtheworld.com:443/YES933AAC_SC
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",YES 933 Radio
+http://22893.live.streamtheworld.com:80/YES933AAC.aac
+#EXTINF:-1 tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",友声友色988
+http://22283.live.streamtheworld.com/988_FMAAC.aac
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 
