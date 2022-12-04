@@ -2936,19 +2936,19 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP:Music-Channel-✨✨
+#EXTGRP:[VIP]Music-Channel-✨✨
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-#EXTINF:-1 group-title="Music-Channel-✨✨" tvg-id="CHN",Lofi Girl 1 Channel
+#EXTINF:-1 group-title="[VIP]Music-Channel-✨✨" tvg-id="CHN",Lofi Girl 1 Channel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669245079/ei/NlR-Y6_fOPyRg8UP9NOj0AM/ip/175.144.164.187/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIpvayqg87uB3KOLcmjUMRJheiOhUY0KvlGElU-l-GBMAiEAsDcfMPyqlZNYaFaoSiqNNd0pEVqM923efCmJMW5OOgA%3D/file/index.m3u8
-#EXTINF:-1 group-title="Music-Channel-✨✨" tvg-id="CHN",Lofi Girl 2  Channel
+#EXTINF:-1 group-title="[VIP]Music-Channel-✨✨" tvg-id="CHN",Lofi Girl 2  Channel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669245486/ei/zlV-Y6DZGry5juMP7p212A0/ip/175.144.164.187/id/rUxyKA_-grg.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgN27lWIT0_vo14uA4o7JUVcU2rqX_YqFt_FnnfNX2HUACIDpul8m-fQLsCFcUmwCAtD_mTqOm9f4fgrRIarY6udDY/file/index.m3u8
-#EXTINF:-1 group-title="Music-Channel-✨✨" tvg-id="CHN",NCS Music Channel
+#EXTINF:-1 group-title="[VIP]Music-Channel-✨✨" tvg-id="CHN",NCS Music Channel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669245612/ei/S1Z-Y4-sOOSDz7sPhbabwA8/ip/175.144.164.187/id/7tNtU5XFwrU.3/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALIfCArH29tP7oTT74O_GO-XTysROBq3Jj7ydezRk0NNAiAzL9q2CD3kk2L9h87H4TRkbXGt698GynvQN-Oo-66mfA%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="Music-Channel-✨✨" tvg-id="CHN",Lagu Hits Indonesian Tahun 2000an Terpopular A
+#EXTINF:-1 group-title="[VIP]Music-Channel-✨✨" tvg-id="CHN",Lagu Hits Indonesian Tahun 2000an Terpopular A
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1670019284/ei/dCSKY4icCZ2C1d8Pv6yM4Aw/ip/175.145.64.161/id/icHcgfstQIM.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/my/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKVk0aFWrpBi1FCdDuHTiJxIpLVKswS9Gj_oK5HldeWbAiEAi4WumEfPCjjGEBU3C1uksnU6KraXL-s3IR0PsmI3RNs%3D/file/index.m3u8
-#EXTINF:-1 group-title="Music-Channel-✨✨" tvg-id="CHN",Lagu Hits Indonesian Tahun 2000an Terpopular B
+#EXTINF:-1 group-title="[VIP]Music-Channel-✨✨" tvg-id="CHN",Lagu Hits Indonesian Tahun 2000an Terpopular B
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669250069/ei/tWd-Y9jrIYmG3LUP-YyH0AU/ip/175.144.164.187/id/XWCjFOhzoq0.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/my/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgT4o0BU4Fy_SVxeyLgHK1QR6FK_ITNtO3e_AGKf7vJDQCIA94Zi48ZuTplZPmouZPhtNiUzt8aCa2GRQLzmB6NCa-/file/index.m3u8
-#EXTINF:-1 group-title="Music-Channel-✨✨" tvg-id="CHN",Greatest Hits 90s English 1
+#EXTINF:-1 group-title="[VIP]Music-Channel-✨✨" tvg-id="CHN",Greatest Hits 90s English 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669250577/ei/sWl-Y7K6DomG3LUP-YyH0AU/ip/175.144.164.187/id/mk73cXTBeLc.2/source/yt_live_broadcast/requiressl/yes/tx/24416438/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJcmatAj5H4PTYVMsmdudIUYYpTZcPEcXGyz8Cxeec5eAiAYrRmcZ6uDnuqWRZuvU-IjMHN0Em1i-ioCumoV9vJP3Q%3D%3D/file/index.m3u8
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -2958,26 +2958,26 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669250577/ei/s
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP: Meditate-Channel-✨✨
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Beaches Live
+#EXTGRP: [VIP]Meditate-Channel-✨✨
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Beaches Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Mountains Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Mountains Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Rivers Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Tropics Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Lakes Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Lakes Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Animals Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Forests Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Forests Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Sunsets Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Sunsets Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Aurora Live
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Aurora Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="Meditate-Channel-✨✨",Nature
+#EXTINF:-1   tvg-logo="https://i.ibb.co/Ks5pZ54/669-6691661-new-travel-peeps-travel-agency-logo-png-transparent.jpg" group-title="[VIP]Meditate-Channel-✨✨",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -2986,32 +2986,32 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP: Box-Office-&-HBO-Channel-✨✨
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 1
+#EXTGRP: [VIP]Box-Office-&-HBO-Channel-✨✨
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 2
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 3
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 3
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 4
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 4
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 5
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 6
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K9NNn7y/5685269.png" group-title="Live Movies",US| 24/7 BOX OFFICE 2022 6
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX 1
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX A
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX A
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924706
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX B
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX B
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924707
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX C
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX C
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924708
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX D
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX D
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924709
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX E
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX E
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924710
-#EXTINF:-1 group-title="Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX F
+#EXTINF:-1 group-title="[VIP]Box-Office-&-HBO-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/nr6CWcx/hbo-logo-png-transparent.png" group-title="Live Movies",US| 24/7 HBO MAX F
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -3019,18 +3019,18 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP: 📺 | Netflix-Channel-✨✨
-#EXTINF:-1 group-title="📺 | Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 1
+#EXTGRP: [VIP]Netflix-Channel-✨✨
+#EXTINF:-1 group-title="[VIP]Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924735
-#EXTINF:-1 group-title="📺 | Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 2
+#EXTINF:-1 group-title="[VIP]Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924736
-#EXTINF:-1 group-title="📺 | Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 3
+#EXTINF:-1 group-title="[VIP]Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 3
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924737
-#EXTINF:-1 group-title="📺 | Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 4
+#EXTINF:-1 group-title="[VIP]Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 4
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924738
-#EXTINF:-1 group-title="📺 | Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 5
+#EXTINF:-1 group-title="[VIP]Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924739
-#EXTINF:-1 group-title="📺 | Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 6
+#EXTINF:-1 group-title="[VIP]Netflix-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/NETFLIX.png" group-title="Live Movies",US| 24/7 NETFLIX 6
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924740
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -3038,22 +3038,22 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924740
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP: 📺 | Show-Time-Channel-✨✨
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 1
+#EXTGRP: [VIP]Show-Time-Channel-✨✨
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 1
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924741
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 2
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 2
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924742
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 3
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 3
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924743
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 4
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 4
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924744
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 5
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924745
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 6
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 6
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924746
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 7
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 7
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924747
-#EXTINF:-1 group-title="📺 | Show Time-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 8
+#EXTINF:-1 group-title="[VIP]Show-Time-Channel-✨✨" tvg-id="123" tvg-logo="http://logo.protv.cc/picons/logos/USA/SHOWTIME.png" group-title="Live Movies",US| 24/7 SHOWTIME 8
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924748
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -3061,82 +3061,82 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924748
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP: Chinese-Movies-Channel-✨✨
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 2 (C)
+#EXTGRP: [VIP]Chinese-Movies-Channel-✨✨
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 2 (C)
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 3 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 3 (C.)
 http://epg.112114.xyz/douyu/6763930
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 4 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 4 (P)
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 5 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 5 (P)
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 6 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 6 (P)
 http://epg.112114.xyz/douyu/413573
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 7 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 7 (P)
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 8 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 8 (P)
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 9 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 9 (P)
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 10 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 10 (P)
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 11 (P.M)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 11 (P.M)
 http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 12 (P.M)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 12 (P.M)
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 13 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 13 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 14 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 14 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 15 (C)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 15 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 17 (C)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 17 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 18 (C.S)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 18 (C.S)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 19 (C)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 19 (C)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 20 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 20 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 21 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 21 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 22 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 22 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 23 (C.F)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 23 (C.F)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 24 (C.H)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 24 (C.H)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 25 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 25 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 26 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 26 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 27 (C.J)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 27 (C.J)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 28 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 28 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 29 (C.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 29 (C.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 30 (C.H)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 30 (C.H)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 31 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 31 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 32 (P.I.M)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 32 (P.I.M)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 33 (P.)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 33 (P.)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 34 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 34 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 35 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 35 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 36 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 36 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 37 (P.J.B)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 37 (P.J.B)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 38 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 38 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 39 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 39 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
-#EXTINF:-1 group-title="Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 40 (P)
+#EXTINF:-1 group-title="[VIP]Chinese-Movies-Channel-✨✨" tvg-id="123" tvg-logo="https://i.ibb.co/K6nmVFp/download-2.png" group-title="Live Movies CN",MOVIES MIX 40 (P)
 http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -3144,57 +3144,57 @@ http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP: Random-Movies-Player-Channel-✨✨
-#EXTINF:-1 tvg-id="321" ch-number="321" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (MY)
+#EXTGRP: [VIP]Random-Movies-Player-Channel-✨✨
+#EXTINF:-1 tvg-id="321" ch-number="321" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CCM" tvg-name="Celestial Classic Movies" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (ID)
+#EXTINF:-1 tvg-id="CCM" tvg-name="Celestial Classic Movies" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",Celestial Classic Movies (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-id="309" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png" group-title="Random-Movies-Player-Channel-✨✨",Celestial Movies (MY) 
+#EXTINF:-1 tvg-id="309" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Celestial Movies (MY) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png",Celestial Movies (ID)
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies HD" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/v3KrQGZ/Maxresdefault-modified.png",Celestial Movies (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-id="712" ch-number="712" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/sCSK6bx/wb-logo-new-shield-modified.png",Warner TV (MY)
+#EXTINF:-1 tvg-id="712" ch-number="712" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/sCSK6bx/wb-logo-new-shield-modified.png",Warner TV (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 tvg-id="712" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/sCSK6bx/wb-logo-new-shield-modified.png",Warner TV (ID)
+#EXTINF:-1 tvg-id="712" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/sCSK6bx/wb-logo-new-shield-modified.png",Warner TV (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-id="705" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png" ch-number="705",KIX (MY)
+#EXTINF:-1 tvg-id="705" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png" ch-number="705",KIX (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/607
 https://linearjitp-playback.astro.com.my/dash-wv/linear/607/default_primary.mpd
 
-#EXTINF:-1 tvg-id="705" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png",KIX (ID)
+#EXTINF:-1 tvg-id="705" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/fMmvZkN/images-5-modified.png",KIX (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-id="701" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/9gKm3Fv/images-2-modified.png" ch-number="701",AXN (MY)
+#EXTINF:-1 tvg-id="701" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/9gKm3Fv/images-2-modified.png" ch-number="701",AXN (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
-#EXTINF:-1 tvg-id="701" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/9gKm3Fv/images-2-modified.png",AXN (ID)
+#EXTINF:-1 tvg-id="701" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/9gKm3Fv/images-2-modified.png",AXN (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -3202,10 +3202,10 @@ https://live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaaa02f58d19457c6385bf2831706f10:7294ff05390550e09df76ef3b697f8da
-#EXTINF:-1 tvg-id="704" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="Random-Movies-Player-Channel-✨✨",Primetime 
+#EXTINF:-1 tvg-id="704" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PRIMEtime.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Primetime 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Thrill.hk" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/7vfgMHb/images-modified.png",Thrill (ID)
+#EXTINF:-1 tvg-id="Thrill.hk" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/7vfgMHb/images-modified.png",Thrill (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
@@ -3213,31 +3213,31 @@ http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1109/
-#EXTINF:-1 tvg-id="129" ch-number="129" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png" group-title="Random-Movies-Player-Channel-✨✨",ART Movies ASTV
+#EXTINF:-1 tvg-id="129" ch-number="129" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/42_144.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",ART Movies ASTV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1109/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
-#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="Random-Movies-Player-Channel-✨✨",Showcase Movies 
+#EXTINF:-1 tvg-id="413" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Showcase Movies 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-1 tvg-id="706" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/ZVKPyrN/download-modified.png" ch-number="706",Hits (MY) 
+#EXTINF:-1 tvg-id="706" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/ZVKPyrN/download-modified.png" ch-number="706",Hits (MY) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HITS" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/ZVKPyrN/download-modified.png",Hits (ID)
+#EXTINF:-1 tvg-id="HITS" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/ZVKPyrN/download-modified.png",Hits (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-id="401" ch-number="401" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/5Mqnx0R/hits-png-modified.png",HITS Movies (MY)
+#EXTINF:-1 tvg-id="401" ch-number="401" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/5Mqnx0R/hits-png-modified.png",HITS Movies (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies HD" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/5Mqnx0R/hits-png-modified.png",Hits Movies (ID) 
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="Hits Movies HD" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/5Mqnx0R/hits-png-modified.png",Hits Movies (ID) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
@@ -3245,30 +3245,30 @@ https://live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-#EXTINF:-1 tvg-id="404" tvg-logo="https://i.ibb.co/xs37yJ8/boo-removebg-preview-modified.png" group-title="Random-Movies-Player-Channel-✨✨",Astro BOO
+#EXTINF:-1 tvg-id="404" tvg-logo="https://i.ibb.co/xs37yJ8/boo-removebg-preview-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Astro BOO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-#EXTINF:-1 tvg-id="713" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="Random-Movies-Player-Channel-✨✨",Paramount Network
+#EXTINF:-1 tvg-id="713" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Paramount Network
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CinemaWorldHD" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld 
+#EXTINF:-1 tvg-id="CinemaWorldHD" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065916134bcf.png",CinemaWorld 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 tvg-id="411" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (MY)
+#EXTINF:-1 tvg-id="411" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (MY)
 https://aqfadtv.xyz/live/hbo/index.mpd
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (ID)
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1 tvg-id="411" ch-number="411" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO HD(TWN)
+#EXTINF:-1 tvg-id="411" ch-number="411" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png",HBO HD(TWN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=897aa91ee5958140b5ebd8076cced310:453b01beb73c78bd6f8ad380f8a06a8e
 #https://linears-playback.astro.com.my/vsgN/41AmYYY7a-gIrsPtxYQYY0-J9Ltr0hpFrHgV8CEpi4YsY=SlXp/dash-wv/jitp-linearwm/2304/default_ott.mpd
@@ -3276,65 +3276,65 @@ http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=1839
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/HBO_2.json
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-logo="https://i.ibb.co/MMCdRnP/logo-hbo-2-east-small-modified.png" group-title="Random-Movies-Player-Channel-✨✨",HBO Zone
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-logo="https://i.ibb.co/MMCdRnP/logo-hbo-2-east-small-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",HBO Zone
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/758848
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:0 tvg-id="HBO.uk" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" group-title="Random-Movies-Player-Channel-✨✨",HBO (UK)
+#EXTINF:0 tvg-id="HBO.uk" tvg-logo="https://i.ibb.co/yBkj4bt/download-1-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",HBO (UK)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/.m3u8
 https://webudi.openhd.lol/lb/premium321/index.m3u8
 
-#EXTINF:-1 tvg-id="415" ch-number="415" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hs4cYBj/hqdefault-modified-1.png",HBO Hits (MY)
+#EXTINF:-1 tvg-id="415" ch-number="415" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hs4cYBj/hqdefault-modified-1.png",HBO Hits (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hs4cYBj/hqdefault-modified-1.png",HBO Hits (ID)
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hs4cYBj/hqdefault-modified-1.png",HBO Hits (ID)
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1 tvg-id="414" ch-number="414" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png",HBO Family (MY)
+#EXTINF:-1 tvg-id="414" ch-number="414" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png",HBO Family (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png",HBO Family (ID)
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/hKf955K/hbo-family-modified.png",HBO Family (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png",HBO Signature (ID)
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature HD" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/gt1RM6s/hbo-signature-modified.png",HBO Signature (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-id="412" ch-number="412" ch-number:"Cinemax" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/L0LsC1t/cinemax-modified.png",Cinemax (MY)
+#EXTINF:-1 tvg-id="412" ch-number="412" ch-number:"Cinemax" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/L0LsC1t/cinemax-modified.png",Cinemax (MY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/L0LsC1t/cinemax-modified.png",Cinemax (ID)
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/L0LsC1t/cinemax-modified.png",Cinemax (ID)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="Random-Movies-Player-Channel-✨✨",Star Movies
+#EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Star Movies
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 # http://teeveetv.one:2052/syntax/MKlaiuUcj2/998830
 # https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starmo
 # http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="StarMoviesSelectHD.in" tvg-logo="https://i.ibb.co/2jh4NGh/starmovirs-modified-1.png" group-title="Random-Movies-Player-Channel-✨✨",Star Movies Select
+#EXTINF:-1 tvg-id="StarMoviesSelectHD.in" tvg-logo="https://i.ibb.co/2jh4NGh/starmovirs-modified-1.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Star Movies Select
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
 # http://teeveetv.one:2052/syntax/MKlaiuUcj2/998858
@@ -3343,156 +3343,156 @@ http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="Random-Movies-Player-Channel-✨✨",Sony Pix 
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Sony Pix 
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/k1JJN2t/and-flix-hd-logo-300x300-modified.png" group-title="Random-Movies-Player-Channel-✨✨",&Flix
+#EXTINF:-1 tvg-id="Andflix.in" tvg-logo="https://i.ibb.co/k1JJN2t/and-flix-hd-logo-300x300-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",&Flix
 #EXTVLCOPT:http-user-agent=zhzsonsznsdd
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/flix
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/998942
 
-#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://i.ibb.co/yqj6BMX/unnamed-19-modified.png" group-title="Random-Movies-Player-Channel-✨✨",&Prive
+#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://i.ibb.co/yqj6BMX/unnamed-19-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",&Prive
 #EXTVLCOPT:http-user-agent=zhzsonsznsdd
 https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/prive
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/998958
 
-#EXTINF:-1 tvg-id="MoviesNow.in" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
+#EXTINF:-1 tvg-id="MoviesNow.in" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Movies Now
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282651
 
-#EXTINF:-1 tvg-id="MNplus.in" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Mn+
+#EXTINF:-1 tvg-id="MNplus.in" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png",Mn+
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282649
 
-#EXTINF:-1 tvg-id="MNX.in" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
+#EXTINF:-1 tvg-id="MNX.in" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",Mnx
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/282650
 
-#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-logo="https://i.ibb.co/vDx82bx/Desain-tanpa-judul-71-modified.png" group-title="Random-Movies-Player-Channel-✨✨", My Cinema
+#EXTINF:-1 tvg-id="mycinema.MACAN" tvg-logo="https://i.ibb.co/vDx82bx/Desain-tanpa-judul-71-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨", My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 
-#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-logo="https://i.ibb.co/5L5Cq6b/Desain-tanpa-judul-70-modified.png" group-title="Random-Movies-Player-Channel-✨✨", My Cinema Asia
+#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-logo="https://i.ibb.co/5L5Cq6b/Desain-tanpa-judul-70-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨", My Cinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
 http://210.210.155.35/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 
-#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-logo="https://i.ibb.co/m59c58z/Desain-tanpa-judul-72-modified.png" group-title="Random-Movies-Player-Channel-✨✨", My Cinema Family
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-logo="https://i.ibb.co/m59c58z/Desain-tanpa-judul-72-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨", My Cinema Family
 http://210.210.155.35/x6bnqe/h/h194/index.m3u8
 http://210.210.155.35/uq2663/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 
-#EXTINF:-1 tvg-id="mycinemaeurope.MACAN" tvg-logo="https://i.ibb.co/XWyYzk8/Desain-tanpa-judul-73-modified.png" group-title="Random-Movies-Player-Channel-✨✨", My Cinema Europe
+#EXTINF:-1 tvg-id="mycinemaeurope.MACAN" tvg-logo="https://i.ibb.co/XWyYzk8/Desain-tanpa-judul-73-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨", My Cinema Europe
 http://210.210.155.35:80/uq2663/h/h18/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://i.ibb.co/WxDMnJt/channel-13-modified.png" group-title="Random-Movies-Player-Channel-✨✨",Galaxy
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://i.ibb.co/WxDMnJt/channel-13-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Galaxy
 https://live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="ttps://i.ibb.co/b7Nfx6X/channel-12-modified.png" group-title="Random-Movies-Player-Channel-✨✨",Galaxy Premium
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="ttps://i.ibb.co/b7Nfx6X/channel-12-modified.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Galaxy Premium
 https://live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="MNetMovies1EastAfrica.za" tvg-name="ZA: M-Net Movies 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/739bdaf1d13b2c9beb5faf1ce29c5173.jpg" group-title="Random-Movies-Player-Channel-✨✨",M-Net Movies 1
+#EXTINF:-1 tvg-id="MNetMovies1EastAfrica.za" tvg-name="ZA: M-Net Movies 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/739bdaf1d13b2c9beb5faf1ce29c5173.jpg" group-title="[VIP]Random-Movies-Player-Channel-✨✨",M-Net Movies 1
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/872400
 
-#EXTINF:-1 tvg-id="MNetMovies2.za" tvg-name="ZA: M-Net Movies 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/174502bcec0def9e77692f2fd9fcd93a.png" group-title="Random-Movies-Player-Channel-✨✨",M-Net Movies 2
+#EXTINF:-1 tvg-id="MNetMovies2.za" tvg-name="ZA: M-Net Movies 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/174502bcec0def9e77692f2fd9fcd93a.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",M-Net Movies 2
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/872401
 
-#EXTINF:-1 tvg-id="MNetMovies3.za" tvg-name="ZA: M-Net Movies 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c35ffa114923b79a40d27196b533220d.png" group-title="Random-Movies-Player-Channel-✨✨",M-Net Movies 3
+#EXTINF:-1 tvg-id="MNetMovies3.za" tvg-name="ZA: M-Net Movies 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c35ffa114923b79a40d27196b533220d.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",M-Net Movies 3
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/872402
 
-#EXTINF:-1 tvg-id="MNetMovies4.za" tvg-name="ZA: M-Net Movies 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c35ffa114923b79a40d27196b533220d.png" group-title="Random-Movies-Player-Channel-✨✨",M-Net Movies 4
+#EXTINF:-1 tvg-id="MNetMovies4.za" tvg-name="ZA: M-Net Movies 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c35ffa114923b79a40d27196b533220d.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",M-Net Movies 4
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/872403
 
-#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="Random-Movies-Player-Channel-✨✨",Sky Cinema Premier
+#EXTINF:-1 tvg-id="SkyCinemaPremiereHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Sky Cinema Premier
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/753101
 
-#EXTINF:-1 tvg-id="SkyCinemaComedyHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="Random-Movies-Player-Channel-✨✨",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="SkyCinemaComedyHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Sky Cinema Comedy
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/753107
 
-#EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="Random-Movies-Player-Channel-✨✨",Sky Cinema Action
+#EXTINF:-1 tvg-id="SkyCinemaActionHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Sky Cinema Action
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/753103
 
-#EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="Random-Movies-Player-Channel-✨✨",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="SkyCinemaThrillerHD.uk" tvg-logo="https://i.ibb.co/Xb2VKDL/download-21-modified-1.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Sky Cinema Thriller
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/753121
 
-#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="Random-Movies-Player-Channel-✨✨",Moviesphere Free
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere Free" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Moviesphere Free
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="Random-Movies-Player-Channel-✨✨",Family Flix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBA3000041ZP" tvg-name="The Movie Hub" tvg-logo="https://i.ibb.co/r6WS80p/download-1.png" group-title="Random-Movies-Player-Channel-✨✨",Movies Hub
+#EXTINF:-1 tvg-id="USBA3000041ZP" tvg-name="The Movie Hub" tvg-logo="https://i.ibb.co/r6WS80p/download-1.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Movies Hub
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USAJ4300010Y0" tvg-name="Dove Channel" tvg-logo="https://i.ibb.co/2PmscZM/87590-w-450-224.png" group-title="Random-Movies-Player-Channel-✨✨",Dove TV
+#EXTINF:-1 tvg-id="USAJ4300010Y0" tvg-name="Dove Channel" tvg-logo="https://i.ibb.co/2PmscZM/87590-w-450-224.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Dove TV
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/58589WZ/99b1354d-8a98-478f-acb1-217f619405b4.jpg" group-title="Random-Movies-Player-Channel-✨✨",My Time
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/58589WZ/99b1354d-8a98-478f-acb1-217f619405b4.jpg" group-title="[VIP]Random-Movies-Player-Channel-✨✨",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/F0Kr4tp/Sony-Crackle-RGB-Hero-BW-Large.jpg" group-title="Random-Movies-Player-Channel-✨✨",Crackle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/F0Kr4tp/Sony-Crackle-RGB-Hero-BW-Large.jpg" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/nQgB05m/stirr-logo-500x143-color.png" group-title="Random-Movies-Player-Channel-✨✨",Stirr Movie
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/nQgB05m/stirr-logo-500x143-color.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Stirr Movie
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="Random-Movies-Player-Channel-✨✨",CineLife
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 
-#EXTINF:0 tvg-id="GBAJ4900006TU" tvg-name="Action Movies - Rakuten TV" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="Random-Movies-Player-Channel-✨✨",Rakuten TV
+#EXTINF:0 tvg-id="GBAJ4900006TU" tvg-name="Action Movies - Rakuten TV" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Rakuten TV
 https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 group-title="Random-Movies-Player-Channel-✨✨" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
+#EXTINF:-1 group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-id="1CHN" tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png",Douyu TV Movies 
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="Random-Movies-Player-Channel-✨✨",Movies X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Movies X
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Yyz0xRB/download.png" group-title="Random-Movies-Player-Channel-✨✨",Cloud Movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Yyz0xRB/download.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Cloud Movie
 http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="Random-Movies-Player-Channel-✨✨", Pixl TV Movie Channel
+#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨", Pixl TV Movie Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
-#EXTINF:-1 group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/XX7q7nQ/FMN-Forget-Me-Not-Channel.png", Fmn 
+#EXTINF:-1 group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/XX7q7nQ/FMN-Forget-Me-Not-Channel.png", Fmn 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 https://live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-id="USAJ40000072X" tvg-name="FilmRise Free Movies" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="Random-Movies-Player-Channel-✨✨",FilmRise 
+#EXTINF:-1 tvg-id="USAJ40000072X" tvg-name="FilmRise Free Movies" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",FilmRise 
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
-#EXTINF:-1 tvg-id="USBB19000017U" tvg-name="Hallmark Movies &amp; More" group-title="Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/b3RzPzC/Hallmark-Movies-Mysteries.png",Hallmark movies
+#EXTINF:-1 tvg-id="USBB19000017U" tvg-name="Hallmark Movies &amp; More" group-title="[VIP]Random-Movies-Player-Channel-✨✨" tvg-logo="https://i.ibb.co/b3RzPzC/Hallmark-Movies-Mysteries.png",Hallmark movies
 http://teeveetv.one:2052/syntax/MKlaiuUcj2/758824
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZEaSAb.png" group-title="Random-Movies-Player-Channel-✨✨",Film Hub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZEaSAb.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Film Hub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DkgjeAg.png" group-title="Random-Movies-Player-Channel-✨✨",iFilm English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkgjeAg.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",iFilm English
 https://live1.presstv.ir/live/ifilmen.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Random-Movies-Player-Channel-✨✨",Flicks of Fury
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/movies.png" group-title="Random-Movies-Player-Channel-✨✨",Movies!
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/100x100/movies.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Movies!
 https://v-ny.theus6tv.tk/hls/5.2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="Random-Movies-Player-Channel-✨✨",Showtime Selects
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Showtime Selects
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png" group-title="Random-Movies-Player-Channel-✨✨",Paramount Plus Picks
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAs8vD1.png" group-title="Random-Movies-Player-Channel-✨✨",RedBox Rush
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAs8vD1.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",RedBox Rush
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png"  group-title="Random-Movies-Player-Channel-✨✨",RedBox Spotlight
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png"  group-title="[VIP]Random-Movies-Player-Channel-✨✨",RedBox Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Random-Movies-Player-Channel-✨✨",Ion Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",Ion Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="Random-Movies-Player-Channel-✨✨",The Asylum
+#EXTINF:-1 tvg-id="591105034c1806b47438342c" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="[VIP]Random-Movies-Player-Channel-✨✨",The Asylum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -3500,96 +3500,96 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP: 📻 | Radio-✨✨
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/3G-FM-Radio-100x47.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",3G FM Radio
+#EXTGRP: [VIP]Radio-✨✨
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/3G-FM-Radio-100x47.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",3G FM Radio
 http://167.114.131.90:5232/
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711300/ab5f84bbc8de6ec5c957f33db0a1ff2f/938now-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",938 Now Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711300/ab5f84bbc8de6ec5c957f33db0a1ff2f/938now-logoImage.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",938 Now Radio
 http://22403.live.streamtheworld.com:80/938NOWAAC.aac
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",AI FM
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",AI FM
 https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",AXR Singapore
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",AXR Singapore
 https://22283.live.streamtheworld.com:443/AXR_SINGAPOREAAC.aac
-#EXTINF:-1 tvg-logo="https://www.bfm.my/themes/bfmmy/assets/images/bfm-logo.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",BFM 89.9
+#EXTINF:-1 tvg-logo="https://www.bfm.my/themes/bfmmy/assets/images/bfm-logo.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",BFM 89.9
 http://22283.live.streamtheworld.com/BFMAAC.aac
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711292/c1d17b4ea5804a7465b72e2662852a6d/capital-958-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Capital 958 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711292/c1d17b4ea5804a7465b72e2662852a6d/capital-958-logoImage.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Capital 958 Radio
 http://22403.live.streamtheworld.com:80/CAPITAL958FMAAC.aac
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Class 95 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711296/ccf360e9edabc86fbe342fd5dee76464/class-95-logoImage.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Class 95 Radio
 http://22403.live.streamtheworld.com:80/CLASS95AAC.aac
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",CNA 938 Live Singapore
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",CNA 938 Live Singapore
 http://19183.live.streamtheworld.com:3690/938NOW_PREM_SC
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",CNA938
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",CNA938
 http://22893.live.streamtheworld.com:80/938NOW_PREM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/era/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Era FM
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/era/ico/android-icon-192x192.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Era FM
 http://astro2.rastream.com/era
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Gold 905 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711298/7d40fdc48f0c097611817c883b355918/gold905-logoImage.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Gold 905 Radio
 http://19183.live.streamtheworld.com:80/GOLD905AAC.aac
-#EXTINF:-1 tvg-logo="http://media2.fishtank.my/app_themes/hitz/ico/hitz.ico" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hits FM Sarawak
+#EXTINF:-1 tvg-logo="http://media2.fishtank.my/app_themes/hitz/ico/hitz.ico" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Hits FM Sarawak
 http://astro1.rastream.com/hitz
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/hitz/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hitz FM
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/hitz/ico/android-icon-192x192.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Hitz FM
 http://astro2.rastream.com/hitz
-#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/88298.v1.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hitz.FM Singapore
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/88298.v1.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Hitz.FM Singapore
 http://91.121.121.25:8260/stream
-#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/11/Hot-FM-91.3.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hot FM 91.3
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2014/11/Hot-FM-91.3.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Hot FM 91.3
 https://22283.live.streamtheworld.com/ONE_FM_913_SC
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Hot FM
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Jazz Lounge
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Jazz Lounge
 http://eu8.fastcast4u.com:5068/;
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Jei FM Klang Tamil Radio
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Jei FM Klang Tamil Radio
 https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Jia 883 Radio
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Jia 883 Radio
 http://23683.live.streamtheworld.com:80/883JIAAAC.aac
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",KISS92
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",KISS92
 https://22253.live.streamtheworld.com/KISS_92AAC.aac
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/litefm/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Lite
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/litefm/ico/android-icon-192x192.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Lite
 http://astro1.rastream.com/lite?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Alite&playerid=Lite_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTY0NzEsImV4cCI6MTUzNzgwMjg3MX0.pSjOU07bdGLYSH3JlfgMBR7qdU7QcAlsTPPwQB3_c3s
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Love 972 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711290/888770d34985f5fcf4fa0389e372e50f/love-972-logoImage.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Love 972 Radio
 http://22403.live.streamtheworld.com:80/LOVE972FMAAC.aac
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Mediacorp 987 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711294/4589530b556e261783c2cb2c8b40fd57/987-logoImage.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Mediacorp 987 Radio
 http://14033.live.streamtheworld.com:80/987FMAAC.aac
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/my/ico/android-icon-192x192.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",MyFM
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/my/ico/android-icon-192x192.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",MyFM
 http://astro1.rastream.com/myfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amyfm&playerid=MY%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0OTA2ODc4OTM5MzIsImV4cCI6MTQ5MDc3NDI5MzkzMn0.WOCZn2kJuoHhhdoq7wyFgn-dJC2teH3_RPxZuSwjCVk&lan=%5B%22zh%22%5D&setLanguage=true
-#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro%2F32680c65-0060-4337-bc51-092683613296.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",MELODY
+#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro%2F32680c65-0060-4337-bc51-092683613296.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",MELODY
 http://astro3.rastream.com/melody?awparams=companionads:true;tags:radioactive;stationid:amp-melody&playerid=MELODY_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1Mzc3MTU1NjAsImV4cCI6MTUzNzgwMTk2MH0.Y5rRnKwPpBiaFL--nplqrezUmaHLJoHDZnJsG99o10o
-#EXTINF:-1 tvg-logo="http://www.moneyfm893.sg//wp-content/assets/2/img/moneyfm893.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Money 893 Radio
+#EXTINF:-1 tvg-logo="http://www.moneyfm893.sg//wp-content/assets/2/img/moneyfm893.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Money 893 Radio
 http://22283.live.streamtheworld.com:80/MONEY_893AAC.aac
-#EXTINF:-1 tvg-logo="https://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="📻 | Radio-✨✨",NAGA FM - SINGAPORE
+#EXTINF:-1 tvg-logo="https://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="[VIP]Radio-✨✨",NAGA FM - SINGAPORE
 http://songs.nagafm.com:8006/stream.mp3;
-#EXTINF:-1 tvg-logo="http://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="📻 | Radio-✨✨",Naga FM Online - Singapore
+#EXTINF:-1 tvg-logo="http://www.nagafm.com/favicon.ico" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Naga FM Online - Singapore
 http://songs.nagafm.com:8006/
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli968fm-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Oli 968 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711308/ee185c9e9bdee0eda9e4d1535d2484cd/oli968fm-logoImage.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Oli 968 Radio
 http://22893.live.streamtheworld.com:80/OLI968FMAAC.aac
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",One FM
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",One FM
 http://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",ONE FM
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",ONE FM
 http://23683.live.streamtheworld.com:80/ONE_FM_913AAC.aac?dist=radiosingaporeapp
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",ONE FM 91.3 SPH AAC
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",ONE FM 91.3 SPH AAC
 http://22283.live.streamtheworld.com:80/ONE_FM_913AAC.aac
-#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/80869.v3.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Orion Station
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/80869.v3.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Orion Station
 http://188.165.192.5:8528/;
-#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/15268.v3.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Radio Melody with Brother Bjorn
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/8/15268.v3.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Radio Melody with Brother Bjorn
 http://ssl.geckohost.nz:9191/autodj
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria897fm-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Ria 897 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711306/7401c2084f4f6d3cc16373cd2746dbac/ria897fm-logoImage.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Ria 897 Radio
 http://23253.live.streamtheworld.com:80/RIA897FMAAC.aac
-#EXTINF:-1 tvg-logo="http://www.geocities.ws/radiorosak/RRStudios.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",RADIOROSAK
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/radiorosak/RRStudios.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",RADIOROSAK
 http://51.15.152.81:9114/stream
-#EXTINF:-1 tvg-logo="http://www.963haofm.sg//wp-content/assets/1/img/fm963.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",SPH 963 Radio
+#EXTINF:-1 tvg-logo="http://www.963haofm.sg//wp-content/assets/1/img/fm963.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",SPH 963 Radio
 http://22283.live.streamtheworld.com:80/HAO_963AAC.aac
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony924-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Symphony 924 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711302/05905f3ad135af8884392f6c9b6532b9/symphony924-logoImage.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Symphony 924 Radio
 http://22893.live.streamtheworld.com:80/SYMPHONY924AAC.aac
-#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro/e4bfb847-9b40-4d4f-9378-f6b9a30805ad.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",Sinar FM
+#EXTINF:-1 tvg-logo="http://assets.radioactive.sg/org-astro/e4bfb847-9b40-4d4f-9378-f6b9a30805ad.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Sinar FM
 http://astro2.rastream.com/sinar
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/UFM_LOGO.jpg/220px-UFM_LOGO.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",UFM 100.3 Radio
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/UFM_LOGO.jpg/220px-UFM_LOGO.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",UFM 100.3 Radio
 http://22253.live.streamtheworld.com:80/UFM_1003AAC.aac
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" tvg-id="CHN" group-title="📻 | Radio-✨✨",Warna 942 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711304/79c07de2cfbee0f83a0e8e21428d2c63/warna-942-logoImage.jpg" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Warna 942 Radio
 http://22903.live.streamtheworld.com:80/WARNA942FMAAC.aac
-#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/5/92895.v5.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",XRadio
+#EXTINF:-1 tvg-logo="http://cdn.onlineradiobox.com/img/logo/5/92895.v5.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",XRadio
 http://xradio.zone:9420/stream
-#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="📻 | Radio-✨✨",Yes 933
+#EXTINF:-1 tvg-logo="" tvg-id="CHN" group-title="[VIP]Radio-✨✨",Yes 933
 https://22903.live.streamtheworld.com:443/YES933AAC_SC
-#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",YES 933 Radio
+#EXTINF:-1 tvg-logo="http://www.meradio.sg/api/blob/10711288/cd52d370e0cc18492418783418684746/yes933-logoImage.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",YES 933 Radio
 http://22893.live.streamtheworld.com:80/YES933AAC.aac
-#EXTINF:-1 tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" tvg-id="CHN" group-title="📻 | Radio-✨✨",友声友色988
+#EXTINF:-1 tvg-logo="https://www.988.com.my/wp-content/themes/988_web/assets/988-logo.png" tvg-id="CHN" group-title="[VIP]Radio-✨✨",友声友色988
 http://22283.live.streamtheworld.com/988_FMAAC.aac
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
