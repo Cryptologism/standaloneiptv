@@ -4034,53 +4034,206 @@ https://kr-streams.onrender.com/scraper?channel=211
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#EXTGRP:[VIP]Knowledge-Channel-✨✨
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Animal
+#EXTGRP:[VIP]Knowledge/Documentary-Channel-✨✨
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Animal
 https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="AnimalPlanetHongKong.hk",Animal Planet Mandarin
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="AnimalPlanetHongKong.hk",Animal Planet Mandarin
 http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="BBCEarthAsia.uk" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",BBC Earth
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="BBCEarthAsia.uk" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-documentary-int.png",CGTN Documentary
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/cgtn-documentary-int.png",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Discover
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Discover
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="",Discovery
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="DiscoveryChannelHongKong.hk" tvg-logo="",Discovery
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/discovery-asia-hk.png",Discovery Asia
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="DiscoveryAsiaHongKong.hk" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/hong-kong/discovery-asia-hk.png",Discovery Asia
 http://eaglevision.visualsec.net:8443/live/gVAdNxbKIu3RkbwswSkgkg/1663856472/224.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="DiscoveryScienceHongKong.hk" tvg-logo="",Discovery Science
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="DiscoveryScienceHongKong.hk" tvg-logo="",Discovery Science
 http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 ##http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=MECE1045237810452378&ct=18393&tsum=806a4803bc2c402750bf7fde4daaf50e
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="DocuBox.us" tvg-logo="",DocuBox
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="DocuBox.us" tvg-logo="",DocuBox
 http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",History (AnthymTV)
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",History (AnthymTV)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="HistoryAsia.sg",History (A+E Networks)
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="HistoryAsia.sg",History (A+E Networks)
 http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/412.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="LoveNature.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-ca.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="LoveNature4K.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="LoveNature4K.ca" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/love-nature-4k-ca.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="NationalGeographicHDSingapore.sg" tvg-logo="",National Geographic
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="NationalGeographicHDSingapore.sg" tvg-logo="",National Geographic
 http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/398.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="NationalGeographicWildHDSingapore.sg" tvg-logo="",National Geographic Wild
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="NationalGeographicWildHDSingapore.sg" tvg-logo="",National Geographic Wild
 http://103.73.58.238:8443/live/1bH3eX5bCyDx1Sse_jYh4w/1663772274/403.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="[VIP]Knowledge-Channel-✨✨",NASA TV
+#EXTINF:-1 tvg-id="NASATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Outdoors
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="CHN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png/v1/fill/w_356,h_142,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b3bfbd_3e0ad905811440a9bba86609e03f37db~mv2.png",Outdoors
 https://bk7l2w4nlx53-hls-live.5centscdn.com/Outdoors/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="OutdoorChannelInternational.us" tvg-logo="",Outdoor Channel
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="OutdoorChannelInternational.us" tvg-logo="",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/rt-documentary-int.png" group-title="[VIP]Knowledge-Channel-✨✨",RT Documentary
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/international/rt-documentary-int.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="Pulse.uk",Pulse
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="Pulse.uk",Pulse
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="[VIP]Knowledge-Channel-✨✨" tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/smithsonian-channel-ca.png",Smithsonian Channel 
+#EXTINF:-1 group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/smithsonian-channel-ca.png",Smithsonian Channel 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-smithsoniannz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="708" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" ch-number="708",Food Network 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
+#EXTINF:-1 tvg-id="709" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" ch-number="709",Asian Food Network (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/500
+http://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",Asian Food Network (ID)
+https://live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#EXTINF:-1 tvg-id="556" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",Animal Planet (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2710
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+#EXTINF:-1 tvg-id="AnimalPlanetIndonesia.id" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Animal Planet (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF:-1 tvg-id="552" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png" ch-number="552",Discovery Channel (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+#EXTINF:-1 tvg-id="DiscoveryChannelIndonesia.id" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Discovery Channel (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF:-1 tvg-id="DiscoveryTurboUK.uk" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨", Discovery Turbo 
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/2.m3u8
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1114
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/Discovery_Science.json
+#EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",Discovery Science
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd
+# http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/713
+#EXTINF:-1 tvg-id="553" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://user-images.githubusercontent.com/85995579/130942415-16993653-9ed9-4c56-97fd-d92dc328b31f.png" ch-number="553",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+#EXTINF:-1 tvg-id="555" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" ch-number="555",History (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+#EXTINF:-1 tvg-id="HistoryAsia.us" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="714" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" ch-number="714",Crime & Investigation (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2111
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime & Investigation (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",Cgtn Documentary (ID)
+https://live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+#EXTINF:-1 tvg-id="554" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",BBC Earth (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5051
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#EXTINF:-1 tvg-id="717" ch-number="717" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+#EXTINF:-1 tvg-id="717" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle (VN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="502" tvg-name="Love Nature HD" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature 
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kMSqd9f/504-5041014-transparent-background-wild-earth-calligraphy-hd-png-download.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",Wild Earth
+https://wildearth-roku.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="551" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",National Geographic (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/600
+http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_primary.mpd
+#EXTINF:-1 tvg-id="NationalGeographic" tvg-name="National Geographic HD" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 tvg-id="550" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://aqfad.xtgem.com/images/NatGeoWild.png" ch-number="550",National Geographic Wild (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_primary.mpd
+#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-name="Nat Geo Wild HD" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="http://tvMalaysia.cc:80/images/974fd3251e5b8259b967eacd5d21f59d.png",National Geographic Wild (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/OC_Logo2017_Primary_REV.svg/revision/latest/scale-to-width-down/185?cb=20170428060444" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist720p.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",NHK World Japan
+https://live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",NHK World Premium
+https://live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTINF:-1 tvg-id="716" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" ch-number="716",Dmax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2610
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",HorizonSports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-id="715" ch-number="HGTV" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" ch-number="715",HGTV (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2502
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
+#EXTINF:-1 tvg-id="HGTVAsia.us" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 tvg-id="707" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="707",TLC (MY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2709
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",TLC (ID)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+#EXTVLCOPT:http-referrer=http://www.astro.com.my
+https://live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 tvg-id="SmithsonianChannelUK.uk" group-title="[VIP]Knowledge/Documentary-Channel-✨✨" tvg-logo="https://i.ibb.co/3BJwhpH/Smithsonian-Channel.png",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP(src07).in(m3u4u)" tvg-name="Travel XP" tvg-logo="https://i.imgur.com/a0aXk2W.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨",Travel XP 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYzpvDJ/Nature-81157-2.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨", Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYzpvDJ/Nature-81157-2.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨", Viasat explore
+http://iptv.prosto.tv:7000/ch85/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bJfM5w/good-time-cookies-logo-BECAD41-A66-seeklogo-com.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨", Goodtime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQD6c8t/1200px-VIASAT-official-png.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨", Viasat Nature
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcNZGCM/png-transparent-computer-icons-natural-environment-nature-natural-resource-coral-collection-leaf-han.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨", Naturescape
+https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCjk1hc/natural-planet-logo.png" group-title="[VIP]Knowledge/Documentary-Channel-✨✨", Nature Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 
