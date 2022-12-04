@@ -1,5 +1,5 @@
 # standaloneiptv
-THIS IS A TEST ONLY AND WILL BE PAID IN THE FUTURE.(Use it while it free) 
+THIS IS A TEST ONLY
 
 Only this link are work for now.
 
