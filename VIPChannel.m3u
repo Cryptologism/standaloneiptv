@@ -4470,6 +4470,52 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+#EXTGRP:[VIP]FIFA-World-Cup-Channel-✨✨
+
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨", TSN 1
+https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨", TSN 2
+https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨", TSN 3
+https://webudi.openhd.lol/lb/premium113/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨", TSN 4
+https://webudi.openhd.lol/lb/premium114/index.m3u8|referer=https://besthdplayer.click/
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨",ASTRO FWC 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨",ASTRO FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#EXTINF:-1 tvg-id="WC2022-1" group-title="[VIP]FIFA-World-Cup-Channel-✨✨" ch-number="825" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 1 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1/
+https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+#EXTINF:-1 tvg-id="WC2022-2" group-title="[VIP]FIFA-World-Cup-Channel-✨✨" ch-number="826" tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png",WC2022 2 (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2/
+https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/
+#EXTINF:-1 tvg-id="802" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨",ASTRO ARENA 2
+https://d2ekjg3g3mxanc.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTg0ODYwOSwiaWF0IjoxNjY5MjQzODA5fQ.fiVaEKhlUH7ZqNw-fD8I8M6zzkzu7ty6J8Uw9GDulpc
+#EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨",ASTRO FWC 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#EXTINF:-1 tvg-id="wc2022-2" tvg-name="wc2022 2" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/astro-wc-qatar.png" group-title="[VIP]FIFA-World-Cup-Channel-✨✨",ASTRO FWC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||COLOUM MOVIE SECOND PART|||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||BY SIR CRYPTO|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
@@ -4503,7 +4549,7 @@ https://www.dropbox.com/s/w8g3008kxnox2sj/Bleach-%20Thousand-Year%20Blood%20War%
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 #EXTGRP:[VIP]Random-Anime-Movies-✨✨
-#EXTINF:-1 type="Anime" group-title="[VIP]Channel(Bleach-Series-2022)-✨✨" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4YWEzMzMtZGQ0Ny00Y2Q4LTgyZTYtOWVmZjUyZDhjMWYzXkEyXkFqcGdeQXVyMTM0MDY3ODQ3._V1_.jpg",One Piece Film- Red
+#EXTINF:-1 type="Anime" group-title="[VIP]Random-Anime-Movies-✨✨" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4YWEzMzMtZGQ0Ny00Y2Q4LTgyZTYtOWVmZjUyZDhjMWYzXkEyXkFqcGdeQXVyMTM0MDY3ODQ3._V1_.jpg",One Piece Film- Red
 https://www.dropbox.com/s/8e9mwrso5jvywnv/One%20Piece%20Film-%20Red.mp4?dl=0&raw=true&type=file.mp4
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
