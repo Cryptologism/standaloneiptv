@@ -7,14 +7,14 @@ BRANCH = "main"  # iptv-org/database default branch
 RAW_BASE = f"https://raw.githubusercontent.com/iptv-org/database/{BRANCH}"
 
 URL_CHANNELS = f"{RAW_BASE}/channels.csv"
-URL_STREAMS_PRIMARY = f"{RAW_BASE}/streams.csv"   # older name used by iptv-org
-URL_STREAMS_FALLBACK = f"{RAW_BASE}/links.csv"    # newer name in some commits
+URL_STREAMS_PRIMARY = f"{RAW_BASE}/streams.csv"   # older name
+URL_STREAMS_FALLBACK = f"{RAW_BASE}/links.csv"    # newer name
 
 OUT_M3U   = "playlist_malaysia.m3u"
 OUT_STATS = "build_stats.txt"
 
 COUNTRY_CODE = "MY"
-STATUS_OK = {"online", "geo_blocked"}  # keep online + geo-blocked (optional)
+STATUS_OK = {"online", "geo_blocked"}  # keep online + geo-blocked
 
 # --- HELPERS ---
 def fetch(url):
@@ -45,10 +45,10 @@ def extinf_line(ch, stream_url):
 def main():
     print("Downloading iptv-org/database CSVs...")
 
-    # channels.csv (must exist on branch=main)
+    # channels.csv
     channels_csv = fetch_or_die(URL_CHANNELS)
 
-    # streams: try streams.csv then links.csv
+    # try streams.csv first, fallback to links.csv
     try:
         streams_csv = fetch(URL_STREAMS_PRIMARY)
         print("Using streams.csv")
@@ -66,7 +66,7 @@ def main():
         if (ch.get("country") or "").strip().upper() == COUNTRY_CODE and ch.get("id")
     }
 
-    # Keep streams for those channels, filter by status
+    # Streams belonging to MY channels
     items = []
     for s in streams:
         cid = (s.get("channel") or s.get("channel_id") or "").strip()
@@ -80,15 +80,15 @@ def main():
             continue
         items.append((my_channels[cid], url))
 
-    # Deduplicate by (channel_id, url)
+    # Deduplicate
     seen, uniq = set(), []
     for ch, u in items:
-        k = (ch.get("id", ""), u)
-        if k in seen:
-            continue
-        seen.add(k)
-        uniq.append((ch, u))
+        key = (ch.get("id", ""), u)
+        if key not in seen:
+            seen.add(key)
+            uniq.append((ch, u))
 
+    # Write playlist
     ts = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())
     with open(OUT_M3U, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
@@ -96,6 +96,13 @@ def main():
         for ch, u in uniq:
             f.write(extinf_line(ch, u))
 
+    # Write stats
     with open(OUT_STATS, "w", encoding="utf-8") as s:
         s.write(f"Generated: {ts} UTC\n")
-        s.write(f"M
+        s.write(f"MY channels: {len(my_channels)}\n")
+        s.write(f"Streams kept: {len(uniq)}\n")
+
+    print(f"OK -> {OUT_M3U} ({len(uniq)} streams)")
+
+if __name__ == "__main__":
+    main()
