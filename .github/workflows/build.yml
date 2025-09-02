@@ -18,11 +18,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate MY playlist
-        run: |
-          python scripts/build_my.py
+      - name: Run Malaysia builder
+        run: python scripts/build_my.py
 
-      - name: Commit playlist
+      - name: Commit results
         run: |
           git config user.email "actions@github.com"
           git config user.name "github-actions"
