@@ -1,14 +1,6 @@
-# build_my.py  (Malaysia-only playlist from iptv-org/database)
+# build_my.py — Malaysia-only playlist from iptv-org/database (/data/*.csv)
 
 import csv, io, time, urllib.request
-
-# --- CONFIG ---
-BRANCH = "main"  # iptv-org/database default branch
-RAW_BASE = f"https://raw.githubusercontent.com/iptv-org/database/{BRANCH}"
-
-URL_CHANNELS = f"{RAW_BASE}/channels.csv"
-URL_STREAMS_PRIMARY = f"{RAW_BASE}/streams.csv"   # older name
-URL_STREAMS_FALLBACK = f"{RAW_BASE}/links.csv"    # newer name
 
 OUT_M3U   = "playlist_malaysia.m3u"
 OUT_STATS = "build_stats.txt"
@@ -16,16 +8,20 @@ OUT_STATS = "build_stats.txt"
 COUNTRY_CODE = "MY"
 STATUS_OK = {"online", "geo_blocked"}  # keep online + geo-blocked
 
-# --- HELPERS ---
+# ---------- helpers ----------
 def fetch(url):
     with urllib.request.urlopen(url, timeout=30) as r:
         return r.read().decode("utf-8", errors="replace")
 
-def fetch_or_die(url):
-    try:
-        return fetch(url)
-    except Exception as e:
-        raise RuntimeError(f"Failed to download: {url}\n{e}")
+def try_urls(urls):
+    last_err = None
+    for u in urls:
+        try:
+            return fetch(u), u
+        except Exception as e:
+            last_err = e
+    raise RuntimeError(f"Failed to download from all candidates:\n" +
+                       "\n".join(urls) + f"\nLast error: {last_err}")
 
 def read_csv(text):
     return list(csv.DictReader(io.StringIO(text)))
@@ -36,25 +32,25 @@ def extinf_line(ch, stream_url):
     gid   = (ch.get("id") or ch.get("tvg-id") or "").strip()
     group = (ch.get("categories") or ch.get("category") or "").strip()
     title = name.replace(",", " ")
-    return (
-        f'#EXTINF:-1 tvg-id="{gid}" tvg-name="{title}" '
-        f'tvg-logo="{logo}" group-title="{group}",{title}\n{stream_url}\n'
-    )
+    return (f'#EXTINF:-1 tvg-id="{gid}" tvg-name="{title}" '
+            f'tvg-logo="{logo}" group-title="{group}",{title}\n{stream_url}\n')
 
-# --- MAIN ---
+# ---------- main ----------
 def main():
     print("Downloading iptv-org/database CSVs...")
 
-    # channels.csv
-    channels_csv = fetch_or_die(URL_CHANNELS)
+    # Candidate raw URLs (branch + path variants)
+    bases = [
+        "https://raw.githubusercontent.com/iptv-org/database/main/data",
+        "https://raw.githubusercontent.com/iptv-org/database/master/data",
+    ]
+    channels_urls = [f"{b}/channels.csv" for b in bases]
+    streams_urls  = [f"{b}/streams.csv"  for b in bases] + [f"{b}/links.csv" for b in bases]
 
-    # try streams.csv first, fallback to links.csv
-    try:
-        streams_csv = fetch(URL_STREAMS_PRIMARY)
-        print("Using streams.csv")
-    except Exception:
-        streams_csv = fetch_or_die(URL_STREAMS_FALLBACK)
-        print("Using links.csv")
+    channels_csv, used_channels = try_urls(channels_urls)
+    print(f"OK channels.csv -> {used_channels}")
+    streams_csv, used_streams   = try_urls(streams_urls)
+    print(f"OK streams      -> {used_streams}")
 
     channels = read_csv(channels_csv)
     streams  = read_csv(streams_csv)
@@ -66,7 +62,7 @@ def main():
         if (ch.get("country") or "").strip().upper() == COUNTRY_CODE and ch.get("id")
     }
 
-    # Streams belonging to MY channels
+    # Streams for those channels
     items = []
     for s in streams:
         cid = (s.get("channel") or s.get("channel_id") or "").strip()
@@ -80,15 +76,16 @@ def main():
             continue
         items.append((my_channels[cid], url))
 
-    # Deduplicate
+    # Deduplicate by (channel_id, url)
     seen, uniq = set(), []
     for ch, u in items:
-        key = (ch.get("id", ""), u)
-        if key not in seen:
-            seen.add(key)
-            uniq.append((ch, u))
+        k = (ch.get("id", ""), u)
+        if k in seen:
+            continue
+        seen.add(k)
+        uniq.append((ch, u))
 
-    # Write playlist
+    # Write playlist + stats
     ts = time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime())
     with open(OUT_M3U, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
@@ -96,7 +93,6 @@ def main():
         for ch, u in uniq:
             f.write(extinf_line(ch, u))
 
-    # Write stats
     with open(OUT_STATS, "w", encoding="utf-8") as s:
         s.write(f"Generated: {ts} UTC\n")
         s.write(f"MY channels: {len(my_channels)}\n")
